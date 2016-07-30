@@ -1,602 +1,602 @@
-Contest	Problem	Count	Difficulty
-480	A	728	1982
-516	A	1042	1991
-482	A	807	1994
-468	A	783	2011
-555	A	992	2011
-576	A	912	2012
-559	A	985	2016
-497	A	716	2027
-553	A	711	2030
-573	A	1013	2032
-461	A	960	2032
-480	B	490	2040
-568	A	752	2042
-484	A	622	2043
-477	A	705	2047
-521	A	568	2048
-367	A	595	2049
-528	A	805	2051
-288	A	573	2051
-333	A	507	2054
-494	A	658	2054
-388	A	754	2055
-286	A	480	2056
-274	A	458	2056
-512	A	801	2057
-251	A	450	2057
-536	A	457	2062
-403	A	525	2063
-383	A	604	2066
-498	A	555	2066
-449	A	368	2067
-283	A	404	2068
-573	B	828	2070
-145	A	330	2070
-354	A	492	2072
-273	A	495	2073
-329	A	472	2073
-406	A	516	2073
-277	A	592	2075
-154	A	358	2076
-356	A	459	2076
-455	A	766	2076
-311	A	443	2077
-150	A	384	2078
-288	B	536	2078
-414	A	663	2080
-364	A	440	2080
-414	B	688	2081
-295	A	549	2081
-235	A	313	2082
-226	A	387	2083
-348	A	450	2083
-453	A	637	2084
-487	A	467	2085
-429	A	645	2086
-338	A	318	2087
-329	B	449	2089
-346	A	494	2089
-343	A	503	2090
-150	B	378	2091
-264	A	518	2092
-341	A	443	2093
-351	A	304	2093
-504	A	513	2093
-261	A	409	2094
-343	B	480	2094
-559	B	588	2094
-217	A	331	2095
-156	A	242	2097
-438	A	651	2097
-341	B	492	2098
-482	B	462	2099
-154	B	334	2101
-229	A	279	2102
-167	A	364	2102
-220	A	388	2103
-258	A	478	2103
-425	A	505	2103
-314	A	410	2104
-477	B	467	2108
-380	A	478	2108
-547	B	582	2108
-480	C	387	2109
-295	B	460	2110
-297	A	396	2110
-283	B	400	2110
-317	A	432	2111
-446	A	426	2112
-333	B	363	2112
-273	B	389	2112
-377	A	460	2113
-568	B	565	2113
-372	A	490	2113
-698	A	556	2113
-288	C	436	2115
-444	A	403	2116
-429	B	491	2116
-232	A	258	2117
-406	B	440	2119
-543	A	459	2119
-269	A	465	2119
-464	A	551	2120
-145	B	168	2121
-187	A	279	2121
-687	A	533	2122
-407	A	335	2122
-142	A	331	2123
-407	B	388	2124
-303	A	386	2124
-196	A	365	2124
-360	A	289	2126
-528	B	597	2126
-256	A	272	2126
-319	A	415	2126
-297	B	445	2126
-229	B	244	2128
-375	A	384	2128
-185	A	336	2128
-213	A	195	2129
-553	B	415	2129
-204	B	263	2130
-685	A	441	2130
-142	B	247	2131
-243	A	279	2131
-698	B	496	2131
-264	B	426	2133
-696	A	456	2133
-280	D	4	2134
-321	A	269	2135
-191	A	273	2135
-679	A	529	2136
-274	B	310	2139
-204	A	252	2139
-238	A	314	2139
-434	A	232	2141
-156	B	284	2142
-301	A	319	2143
-251	B	212	2143
-201	A	210	2146
-555	B	528	2147
-696	B	438	2148
-367	B	282	2148
-516	B	357	2149
-249	A	75	2149
-497	B	454	2150
-512	B	509	2154
-167	B	199	2156
-191	B	223	2156
-442	B	284	2156
-256	B	244	2157
-700	A	283	2158
-269	B	388	2158
-280	B	266	2160
-193	A	196	2161
-321	B	219	2161
-351	B	324	2161
-442	A	344	2161
-536	B	308	2162
-356	B	276	2162
-449	B	209	2163
-303	B	244	2164
-301	B	133	2164
-403	B	236	2165
-198	A	213	2165
-198	B	232	2166
-650	A	478	2167
-468	B	263	2168
-663	A	183	2170
-187	B	166	2172
-223	A	244	2175
-375	B	314	2176
-685	B	362	2178
-484	B	266	2179
-671	A	313	2181
-687	C	414	2182
-229	C	194	2182
-687	B	354	2182
-388	B	381	2184
-663	B	97	2184
-220	B	213	2185
-455	B	374	2185
-605	A	389	2186
-372	B	367	2190
-226	B	222	2191
-666	A	280	2192
-587	A	412	2192
-286	C	122	2193
-603	A	407	2194
-235	B	153	2194
-187	C	101	2196
-446	B	342	2197
-317	B	241	2197
-601	A	373	2197
-201	B	187	2198
-213	B	136	2198
-338	B	198	2199
-700	B	279	2200
-343	C	305	2201
-461	B	408	2201
-607	A	430	2201
-377	B	306	2203
-585	A	236	2203
-319	B	266	2204
-585	B	309	2204
-590	A	353	2206
-605	B	370	2206
-438	B	381	2208
-506	A	294	2208
-261	B	190	2209
-280	A	146	2209
-383	C	297	2209
-238	B	181	2209
-504	B	313	2210
-487	B	260	2211
-453	B	320	2214
-696	C	302	2214
-243	B	106	2214
-576	C	288	2214
-547	A	156	2214
-185	B	177	2216
-341	C	245	2217
-582	A	377	2217
-613	A	289	2219
-650	B	302	2219
-521	B	245	2219
-464	B	275	2220
-232	B	179	2220
-434	B	191	2220
-576	B	279	2221
-543	B	224	2221
-354	C	127	2222
-360	B	129	2223
-367	C	256	2224
-388	C	299	2225
-333	D	121	2225
-571	A	240	2228
-571	B	329	2228
-380	C	255	2229
-156	C	172	2229
-494	B	348	2229
-314	B	170	2231
-213	C	108	2232
-314	C	174	2234
-346	B	172	2234
-613	B	263	2234
-348	B	124	2235
-582	B	349	2235
-264	C	225	2239
-235	C	4	2239
-671	B	255	2240
-603	B	324	2241
-258	B	223	2241
-191	C	161	2243
-498	C	268	2243
-607	B	341	2244
-356	C	122	2246
-204	C	124	2248
-229	D	117	2249
-223	C	199	2250
-196	B	119	2251
-145	C	86	2252
-217	B	92	2253
-559	C	321	2253
-311	B	35	2263
-666	B	201	2264
-364	B	124	2266
-477	C	183	2268
-249	B	34	2268
-193	B	115	2268
-277	B	92	2268
-251	C	125	2269
-286	B	108	2270
-273	C	77	2271
-455	C	244	2272
-338	C	72	2274
-587	B	229	2275
-223	B	163	2275
-201	C	102	2276
-261	C	152	2278
-601	B	249	2279
-590	B	198	2279
-429	D	116	2280
-295	C	168	2282
-321	C	146	2283
-414	C	249	2284
-425	B	122	2286
-380	B	77	2286
-351	E	146	2286
-283	C	120	2286
-663	C	126	2288
-403	C	130	2289
-487	C	112	2289
-406	C	104	2290
-406	D	116	2291
-497	C	235	2291
-553	C	222	2294
-679	B	200	2295
-249	D	6	2295
-258	C	145	2298
-256	C	87	2299
-506	B	199	2301
-555	C	261	2301
-425	D	97	2302
-274	D	85	2304
-301	D	89	2306
-587	C	192	2306
-383	D	108	2307
-383	B	41	2309
-142	C	78	2309
-444	B	94	2313
-464	C	235	2314
-364	C	75	2315
-650	C	216	2316
-150	C	82	2316
-226	D	94	2316
-521	C	172	2316
-354	E	137	2317
-590	C	150	2317
-516	C	213	2320
-547	C	189	2320
-348	D	24	2320
-438	D	101	2324
-377	C	112	2325
-238	C	91	2329
-372	C	157	2332
-297	C	45	2334
-269	C	134	2335
-603	C	211	2338
-343	D	145	2340
-319	C	136	2340
-277	E	65	2340
-543	D	73	2342
-243	E	1	2343
-594	C	111	2343
-154	C	47	2344
-220	C	105	2346
-585	D	129	2347
-317	D	94	2347
-461	C	211	2347
-449	C	66	2348
-196	C	62	2348
-280	C	91	2349
-573	C	144	2352
-301	C	32	2353
-273	D	38	2356
-346	C	83	2357
-444	C	59	2363
-249	E	6	2371
-528	E	3	2371
-585	C	77	2372
-453	C	141	2373
-594	B	34	2373
-341	E	1	2376
-455	D	20	2377
-329	C	54	2377
-429	C	75	2379
-329	D	37	2379
-213	D	40	2379
-145	E	37	2380
-480	D	25	2383
-605	C	106	2383
-191	E	55	2386
-484	D	82	2386
-679	C	127	2390
-167	C	75	2392
-553	D	131	2399
-201	D	11	2404
-512	C	143	2404
-506	D	113	2404
-154	D	46	2405
-498	B	76	2406
-414	D	107	2406
-295	E	35	2407
-311	E	2	2407
-314	E	4	2407
-449	D	80	2408
-601	C	154	2411
-364	E	1	2412
-288	D	49	2412
-444	D	39	2415
-283	D	30	2416
-468	C	56	2417
-229	E	12	2417
-311	D	18	2419
-249	C	9	2420
-425	C	105	2421
-258	E	38	2421
-311	C	9	2422
-226	C	22	2423
-256	E	38	2424
-341	D	30	2426
-333	E	31	2430
-403	D	77	2431
-317	C	30	2433
-351	C	33	2433
-446	C	64	2434
-348	C	23	2436
-698	C	97	2437
-191	D	6	2439
-193	C	43	2441
-613	C	78	2442
-536	C	30	2447
-314	D	31	2449
-582	C	101	2449
-354	B	37	2452
-403	E	2	2453
-277	C	48	2454
-217	C	12	2456
-605	D	76	2456
-594	D	50	2456
-220	E	37	2457
-360	C	34	2459
-375	D	47	2459
-333	C	13	2459
-274	C	11	2460
-700	C	46	2463
-446	D	6	2465
-243	C	57	2465
-590	D	106	2467
-321	E	13	2468
-375	C	26	2471
-142	D	19	2474
-442	C	46	2476
-295	D	45	2477
-201	E	12	2479
-696	D	88	2482
-528	C	59	2482
-264	D	22	2483
-568	D	13	2483
-555	D	81	2484
-484	E	19	2487
-573	E	2	2488
-607	C	67	2488
-217	E	2	2494
-204	D	29	2496
-543	C	61	2496
-351	D	10	2502
-494	D	20	2503
-407	D	11	2506
-687	D	71	2510
-571	C	64	2512
-498	D	84	2513
-547	D	30	2514
-434	C	22	2514
-303	C	36	2515
-303	D	13	2518
-601	D	80	2519
-187	D	6	2522
-380	D	43	2524
-364	D	3	2524
-587	F	3	2525
-449	E	4	2528
-286	D	13	2529
-377	D	49	2530
-666	C	53	2531
-438	C	43	2533
-360	D	13	2533
-346	D	26	2538
-198	E	23	2538
-383	E	19	2540
-464	E	1	2541
-360	E	3	2543
-650	D	58	2543
-528	D	56	2544
-429	E	6	2545
-504	C	37	2545
-482	C	21	2548
-444	E	15	2549
-261	E	4	2550
-685	D	43	2551
-220	D	20	2553
-301	E	3	2555
-156	D	26	2557
-297	D	34	2559
-504	D	21	2562
-407	C	41	2568
-261	D	11	2569
-425	E	33	2576
-461	D	13	2577
-607	D	48	2577
-547	E	15	2578
-698	D	19	2581
-286	E	5	2583
-663	E	20	2583
-150	D	15	2583
-477	D	24	2583
-487	D	19	2588
-568	C	32	2589
-484	C	24	2591
-582	D	1	2591
-273	E	15	2593
-264	E	2	2596
-406	E	8	2599
-506	C	8	2600
-198	C	29	2604
-367	D	39	2604
-494	C	29	2605
-666	E	2	2606
-571	D	4	2607
-283	E	5	2607
-372	D	22	2611
-555	E	20	2617
-198	D	4	2622
-521	D	8	2623
-187	E	1	2637
-196	E	14	2639
-288	E	5	2640
-671	C	26	2642
-582	E	9	2645
-585	E	16	2647
-338	E	14	2650
-576	D	29	2651
-559	D	25	2654
-613	E	1	2656
-685	C	17	2658
-605	E	31	2661
-698	E	13	2661
-258	D	16	2670
-512	E	18	2672
-269	D	26	2673
-343	E	6	2675
-516	D	14	2676
-372	E	2	2679
-666	D	9	2683
-497	D	8	2689
-321	D	4	2694
-497	E	8	2695
-453	D	6	2699
-587	E	14	2700
-482	D	23	2701
-603	E	3	2701
-498	E	24	2703
-464	D	21	2704
-185	D	13	2707
-213	E	5	2707
-388	D	17	2709
-685	E	21	2712
-504	E	3	2714
-453	E	1	2716
-185	E	1	2717
-442	D	20	2717
-235	E	4	2719
-613	D	22	2719
-536	D	11	2720
-356	D	8	2726
-603	D	10	2730
-671	D	14	2733
-687	E	22	2736
-696	E	11	2740
-319	D	7	2743
-461	E	6	2756
-193	E	3	2758
-480	E	4	2765
-367	E	14	2774
-338	D	4	2774
-487	E	1	2782
-455	E	7	2783
-468	D	1	2786
-559	E	8	2787
-679	D	15	2788
-573	D	9	2788
-167	E	6	2794
-601	E	13	2802
-380	E	12	2807
-700	D	5	2825
-512	D	15	2829
-256	D	4	2835
-590	E	1	2837
-576	E	1	2850
-297	E	3	2853
-434	D	1	2853
-251	D	6	2859
-238	E	3	2865
-196	D	4	2872
-698	F	9	2876
-217	D	4	2886
-167	D	2	2890
-348	E	3	2891
-587	D	1	2894
-650	E	8	2895
-679	E	3	2902
-536	E	4	2918
-377	E	4	2923
-238	D	1	2930
-414	E	1	2962
-204	E	3	2967
-277	D	4	3003
-243	D	3	3015
-193	D	2	3099
-354	D	1	3102
-516	E	1	3102
-156	E	2	3148
-663	D	2	3205
-494	E	2	3255
-521	E	2	3291
-568	E	1	3481
-235	D	1	3481
-506	E	1	3481
-232	D	1	3580
-442	E	1	3580
-145	D	1	3580
+Contest	Problem	Count	Difficulty	URI
+480	A	728	1982	http://codeforces.com/problemset/problem/480/A/
+516	A	1042	1991	http://codeforces.com/problemset/problem/516/A/
+482	A	807	1994	http://codeforces.com/problemset/problem/482/A/
+468	A	783	2011	http://codeforces.com/problemset/problem/468/A/
+555	A	992	2011	http://codeforces.com/problemset/problem/555/A/
+576	A	912	2012	http://codeforces.com/problemset/problem/576/A/
+559	A	985	2016	http://codeforces.com/problemset/problem/559/A/
+497	A	716	2027	http://codeforces.com/problemset/problem/497/A/
+553	A	711	2030	http://codeforces.com/problemset/problem/553/A/
+573	A	1013	2032	http://codeforces.com/problemset/problem/573/A/
+461	A	960	2032	http://codeforces.com/problemset/problem/461/A/
+480	B	490	2040	http://codeforces.com/problemset/problem/480/B/
+568	A	752	2042	http://codeforces.com/problemset/problem/568/A/
+484	A	622	2043	http://codeforces.com/problemset/problem/484/A/
+477	A	705	2047	http://codeforces.com/problemset/problem/477/A/
+521	A	568	2048	http://codeforces.com/problemset/problem/521/A/
+367	A	595	2049	http://codeforces.com/problemset/problem/367/A/
+528	A	805	2051	http://codeforces.com/problemset/problem/528/A/
+288	A	573	2051	http://codeforces.com/problemset/problem/288/A/
+333	A	507	2054	http://codeforces.com/problemset/problem/333/A/
+494	A	658	2054	http://codeforces.com/problemset/problem/494/A/
+388	A	754	2055	http://codeforces.com/problemset/problem/388/A/
+286	A	480	2056	http://codeforces.com/problemset/problem/286/A/
+274	A	458	2056	http://codeforces.com/problemset/problem/274/A/
+512	A	801	2057	http://codeforces.com/problemset/problem/512/A/
+251	A	450	2057	http://codeforces.com/problemset/problem/251/A/
+536	A	457	2062	http://codeforces.com/problemset/problem/536/A/
+403	A	525	2063	http://codeforces.com/problemset/problem/403/A/
+383	A	604	2066	http://codeforces.com/problemset/problem/383/A/
+498	A	555	2066	http://codeforces.com/problemset/problem/498/A/
+449	A	368	2067	http://codeforces.com/problemset/problem/449/A/
+283	A	404	2068	http://codeforces.com/problemset/problem/283/A/
+573	B	828	2070	http://codeforces.com/problemset/problem/573/B/
+145	A	330	2070	http://codeforces.com/problemset/problem/145/A/
+354	A	492	2072	http://codeforces.com/problemset/problem/354/A/
+273	A	495	2073	http://codeforces.com/problemset/problem/273/A/
+329	A	472	2073	http://codeforces.com/problemset/problem/329/A/
+406	A	516	2073	http://codeforces.com/problemset/problem/406/A/
+277	A	592	2075	http://codeforces.com/problemset/problem/277/A/
+154	A	358	2076	http://codeforces.com/problemset/problem/154/A/
+356	A	459	2076	http://codeforces.com/problemset/problem/356/A/
+455	A	766	2076	http://codeforces.com/problemset/problem/455/A/
+311	A	443	2077	http://codeforces.com/problemset/problem/311/A/
+150	A	384	2078	http://codeforces.com/problemset/problem/150/A/
+288	B	536	2078	http://codeforces.com/problemset/problem/288/B/
+414	A	663	2080	http://codeforces.com/problemset/problem/414/A/
+364	A	440	2080	http://codeforces.com/problemset/problem/364/A/
+414	B	688	2081	http://codeforces.com/problemset/problem/414/B/
+295	A	549	2081	http://codeforces.com/problemset/problem/295/A/
+235	A	313	2082	http://codeforces.com/problemset/problem/235/A/
+226	A	387	2083	http://codeforces.com/problemset/problem/226/A/
+348	A	450	2083	http://codeforces.com/problemset/problem/348/A/
+453	A	637	2084	http://codeforces.com/problemset/problem/453/A/
+487	A	467	2085	http://codeforces.com/problemset/problem/487/A/
+429	A	645	2086	http://codeforces.com/problemset/problem/429/A/
+338	A	318	2087	http://codeforces.com/problemset/problem/338/A/
+329	B	449	2089	http://codeforces.com/problemset/problem/329/B/
+346	A	494	2089	http://codeforces.com/problemset/problem/346/A/
+343	A	503	2090	http://codeforces.com/problemset/problem/343/A/
+150	B	378	2091	http://codeforces.com/problemset/problem/150/B/
+264	A	518	2092	http://codeforces.com/problemset/problem/264/A/
+341	A	443	2093	http://codeforces.com/problemset/problem/341/A/
+351	A	304	2093	http://codeforces.com/problemset/problem/351/A/
+504	A	513	2093	http://codeforces.com/problemset/problem/504/A/
+261	A	409	2094	http://codeforces.com/problemset/problem/261/A/
+343	B	480	2094	http://codeforces.com/problemset/problem/343/B/
+559	B	588	2094	http://codeforces.com/problemset/problem/559/B/
+217	A	331	2095	http://codeforces.com/problemset/problem/217/A/
+156	A	242	2097	http://codeforces.com/problemset/problem/156/A/
+438	A	651	2097	http://codeforces.com/problemset/problem/438/A/
+341	B	492	2098	http://codeforces.com/problemset/problem/341/B/
+482	B	462	2099	http://codeforces.com/problemset/problem/482/B/
+154	B	334	2101	http://codeforces.com/problemset/problem/154/B/
+229	A	279	2102	http://codeforces.com/problemset/problem/229/A/
+167	A	364	2102	http://codeforces.com/problemset/problem/167/A/
+220	A	388	2103	http://codeforces.com/problemset/problem/220/A/
+258	A	478	2103	http://codeforces.com/problemset/problem/258/A/
+425	A	505	2103	http://codeforces.com/problemset/problem/425/A/
+314	A	410	2104	http://codeforces.com/problemset/problem/314/A/
+477	B	467	2108	http://codeforces.com/problemset/problem/477/B/
+380	A	478	2108	http://codeforces.com/problemset/problem/380/A/
+547	B	582	2108	http://codeforces.com/problemset/problem/547/B/
+480	C	387	2109	http://codeforces.com/problemset/problem/480/C/
+295	B	460	2110	http://codeforces.com/problemset/problem/295/B/
+297	A	396	2110	http://codeforces.com/problemset/problem/297/A/
+283	B	400	2110	http://codeforces.com/problemset/problem/283/B/
+317	A	432	2111	http://codeforces.com/problemset/problem/317/A/
+446	A	426	2112	http://codeforces.com/problemset/problem/446/A/
+333	B	363	2112	http://codeforces.com/problemset/problem/333/B/
+273	B	389	2112	http://codeforces.com/problemset/problem/273/B/
+377	A	460	2113	http://codeforces.com/problemset/problem/377/A/
+568	B	565	2113	http://codeforces.com/problemset/problem/568/B/
+372	A	490	2113	http://codeforces.com/problemset/problem/372/A/
+698	A	556	2113	http://codeforces.com/problemset/problem/698/A/
+288	C	436	2115	http://codeforces.com/problemset/problem/288/C/
+444	A	403	2116	http://codeforces.com/problemset/problem/444/A/
+429	B	491	2116	http://codeforces.com/problemset/problem/429/B/
+232	A	258	2117	http://codeforces.com/problemset/problem/232/A/
+406	B	440	2119	http://codeforces.com/problemset/problem/406/B/
+543	A	459	2119	http://codeforces.com/problemset/problem/543/A/
+269	A	465	2119	http://codeforces.com/problemset/problem/269/A/
+464	A	551	2120	http://codeforces.com/problemset/problem/464/A/
+145	B	168	2121	http://codeforces.com/problemset/problem/145/B/
+187	A	279	2121	http://codeforces.com/problemset/problem/187/A/
+687	A	533	2122	http://codeforces.com/problemset/problem/687/A/
+407	A	335	2122	http://codeforces.com/problemset/problem/407/A/
+142	A	331	2123	http://codeforces.com/problemset/problem/142/A/
+407	B	388	2124	http://codeforces.com/problemset/problem/407/B/
+303	A	386	2124	http://codeforces.com/problemset/problem/303/A/
+196	A	365	2124	http://codeforces.com/problemset/problem/196/A/
+360	A	289	2126	http://codeforces.com/problemset/problem/360/A/
+528	B	597	2126	http://codeforces.com/problemset/problem/528/B/
+256	A	272	2126	http://codeforces.com/problemset/problem/256/A/
+319	A	415	2126	http://codeforces.com/problemset/problem/319/A/
+297	B	445	2126	http://codeforces.com/problemset/problem/297/B/
+229	B	244	2128	http://codeforces.com/problemset/problem/229/B/
+375	A	384	2128	http://codeforces.com/problemset/problem/375/A/
+185	A	336	2128	http://codeforces.com/problemset/problem/185/A/
+213	A	195	2129	http://codeforces.com/problemset/problem/213/A/
+553	B	415	2129	http://codeforces.com/problemset/problem/553/B/
+204	B	263	2130	http://codeforces.com/problemset/problem/204/B/
+685	A	441	2130	http://codeforces.com/problemset/problem/685/A/
+142	B	247	2131	http://codeforces.com/problemset/problem/142/B/
+243	A	279	2131	http://codeforces.com/problemset/problem/243/A/
+698	B	496	2131	http://codeforces.com/problemset/problem/698/B/
+264	B	426	2133	http://codeforces.com/problemset/problem/264/B/
+696	A	456	2133	http://codeforces.com/problemset/problem/696/A/
+280	D	4	2134	http://codeforces.com/problemset/problem/280/D/
+321	A	269	2135	http://codeforces.com/problemset/problem/321/A/
+191	A	273	2135	http://codeforces.com/problemset/problem/191/A/
+679	A	529	2136	http://codeforces.com/problemset/problem/679/A/
+274	B	310	2139	http://codeforces.com/problemset/problem/274/B/
+204	A	252	2139	http://codeforces.com/problemset/problem/204/A/
+238	A	314	2139	http://codeforces.com/problemset/problem/238/A/
+434	A	232	2141	http://codeforces.com/problemset/problem/434/A/
+156	B	284	2142	http://codeforces.com/problemset/problem/156/B/
+301	A	319	2143	http://codeforces.com/problemset/problem/301/A/
+251	B	212	2143	http://codeforces.com/problemset/problem/251/B/
+201	A	210	2146	http://codeforces.com/problemset/problem/201/A/
+555	B	528	2147	http://codeforces.com/problemset/problem/555/B/
+696	B	438	2148	http://codeforces.com/problemset/problem/696/B/
+367	B	282	2148	http://codeforces.com/problemset/problem/367/B/
+516	B	357	2149	http://codeforces.com/problemset/problem/516/B/
+249	A	75	2149	http://codeforces.com/problemset/problem/249/A/
+497	B	454	2150	http://codeforces.com/problemset/problem/497/B/
+512	B	509	2154	http://codeforces.com/problemset/problem/512/B/
+167	B	199	2156	http://codeforces.com/problemset/problem/167/B/
+191	B	223	2156	http://codeforces.com/problemset/problem/191/B/
+442	B	284	2156	http://codeforces.com/problemset/problem/442/B/
+256	B	244	2157	http://codeforces.com/problemset/problem/256/B/
+700	A	283	2158	http://codeforces.com/problemset/problem/700/A/
+269	B	388	2158	http://codeforces.com/problemset/problem/269/B/
+280	B	266	2160	http://codeforces.com/problemset/problem/280/B/
+193	A	196	2161	http://codeforces.com/problemset/problem/193/A/
+321	B	219	2161	http://codeforces.com/problemset/problem/321/B/
+351	B	324	2161	http://codeforces.com/problemset/problem/351/B/
+442	A	344	2161	http://codeforces.com/problemset/problem/442/A/
+536	B	308	2162	http://codeforces.com/problemset/problem/536/B/
+356	B	276	2162	http://codeforces.com/problemset/problem/356/B/
+449	B	209	2163	http://codeforces.com/problemset/problem/449/B/
+303	B	244	2164	http://codeforces.com/problemset/problem/303/B/
+301	B	133	2164	http://codeforces.com/problemset/problem/301/B/
+403	B	236	2165	http://codeforces.com/problemset/problem/403/B/
+198	A	213	2165	http://codeforces.com/problemset/problem/198/A/
+198	B	232	2166	http://codeforces.com/problemset/problem/198/B/
+650	A	478	2167	http://codeforces.com/problemset/problem/650/A/
+468	B	263	2168	http://codeforces.com/problemset/problem/468/B/
+663	A	183	2170	http://codeforces.com/problemset/problem/663/A/
+187	B	166	2172	http://codeforces.com/problemset/problem/187/B/
+223	A	244	2175	http://codeforces.com/problemset/problem/223/A/
+375	B	314	2176	http://codeforces.com/problemset/problem/375/B/
+685	B	362	2178	http://codeforces.com/problemset/problem/685/B/
+484	B	266	2179	http://codeforces.com/problemset/problem/484/B/
+671	A	313	2181	http://codeforces.com/problemset/problem/671/A/
+687	C	414	2182	http://codeforces.com/problemset/problem/687/C/
+229	C	194	2182	http://codeforces.com/problemset/problem/229/C/
+687	B	354	2182	http://codeforces.com/problemset/problem/687/B/
+388	B	381	2184	http://codeforces.com/problemset/problem/388/B/
+663	B	97	2184	http://codeforces.com/problemset/problem/663/B/
+220	B	213	2185	http://codeforces.com/problemset/problem/220/B/
+455	B	374	2185	http://codeforces.com/problemset/problem/455/B/
+605	A	389	2186	http://codeforces.com/problemset/problem/605/A/
+372	B	367	2190	http://codeforces.com/problemset/problem/372/B/
+226	B	222	2191	http://codeforces.com/problemset/problem/226/B/
+666	A	280	2192	http://codeforces.com/problemset/problem/666/A/
+587	A	412	2192	http://codeforces.com/problemset/problem/587/A/
+286	C	122	2193	http://codeforces.com/problemset/problem/286/C/
+603	A	407	2194	http://codeforces.com/problemset/problem/603/A/
+235	B	153	2194	http://codeforces.com/problemset/problem/235/B/
+187	C	101	2196	http://codeforces.com/problemset/problem/187/C/
+446	B	342	2197	http://codeforces.com/problemset/problem/446/B/
+317	B	241	2197	http://codeforces.com/problemset/problem/317/B/
+601	A	373	2197	http://codeforces.com/problemset/problem/601/A/
+201	B	187	2198	http://codeforces.com/problemset/problem/201/B/
+213	B	136	2198	http://codeforces.com/problemset/problem/213/B/
+338	B	198	2199	http://codeforces.com/problemset/problem/338/B/
+700	B	279	2200	http://codeforces.com/problemset/problem/700/B/
+343	C	305	2201	http://codeforces.com/problemset/problem/343/C/
+461	B	408	2201	http://codeforces.com/problemset/problem/461/B/
+607	A	430	2201	http://codeforces.com/problemset/problem/607/A/
+377	B	306	2203	http://codeforces.com/problemset/problem/377/B/
+585	A	236	2203	http://codeforces.com/problemset/problem/585/A/
+319	B	266	2204	http://codeforces.com/problemset/problem/319/B/
+585	B	309	2204	http://codeforces.com/problemset/problem/585/B/
+590	A	353	2206	http://codeforces.com/problemset/problem/590/A/
+605	B	370	2206	http://codeforces.com/problemset/problem/605/B/
+438	B	381	2208	http://codeforces.com/problemset/problem/438/B/
+506	A	294	2208	http://codeforces.com/problemset/problem/506/A/
+261	B	190	2209	http://codeforces.com/problemset/problem/261/B/
+280	A	146	2209	http://codeforces.com/problemset/problem/280/A/
+383	C	297	2209	http://codeforces.com/problemset/problem/383/C/
+238	B	181	2209	http://codeforces.com/problemset/problem/238/B/
+504	B	313	2210	http://codeforces.com/problemset/problem/504/B/
+487	B	260	2211	http://codeforces.com/problemset/problem/487/B/
+453	B	320	2214	http://codeforces.com/problemset/problem/453/B/
+696	C	302	2214	http://codeforces.com/problemset/problem/696/C/
+243	B	106	2214	http://codeforces.com/problemset/problem/243/B/
+576	C	288	2214	http://codeforces.com/problemset/problem/576/C/
+547	A	156	2214	http://codeforces.com/problemset/problem/547/A/
+185	B	177	2216	http://codeforces.com/problemset/problem/185/B/
+341	C	245	2217	http://codeforces.com/problemset/problem/341/C/
+582	A	377	2217	http://codeforces.com/problemset/problem/582/A/
+613	A	289	2219	http://codeforces.com/problemset/problem/613/A/
+650	B	302	2219	http://codeforces.com/problemset/problem/650/B/
+521	B	245	2219	http://codeforces.com/problemset/problem/521/B/
+464	B	275	2220	http://codeforces.com/problemset/problem/464/B/
+232	B	179	2220	http://codeforces.com/problemset/problem/232/B/
+434	B	191	2220	http://codeforces.com/problemset/problem/434/B/
+576	B	279	2221	http://codeforces.com/problemset/problem/576/B/
+543	B	224	2221	http://codeforces.com/problemset/problem/543/B/
+354	C	127	2222	http://codeforces.com/problemset/problem/354/C/
+360	B	129	2223	http://codeforces.com/problemset/problem/360/B/
+367	C	256	2224	http://codeforces.com/problemset/problem/367/C/
+388	C	299	2225	http://codeforces.com/problemset/problem/388/C/
+333	D	121	2225	http://codeforces.com/problemset/problem/333/D/
+571	A	240	2228	http://codeforces.com/problemset/problem/571/A/
+571	B	329	2228	http://codeforces.com/problemset/problem/571/B/
+380	C	255	2229	http://codeforces.com/problemset/problem/380/C/
+156	C	172	2229	http://codeforces.com/problemset/problem/156/C/
+494	B	348	2229	http://codeforces.com/problemset/problem/494/B/
+314	B	170	2231	http://codeforces.com/problemset/problem/314/B/
+213	C	108	2232	http://codeforces.com/problemset/problem/213/C/
+314	C	174	2234	http://codeforces.com/problemset/problem/314/C/
+346	B	172	2234	http://codeforces.com/problemset/problem/346/B/
+613	B	263	2234	http://codeforces.com/problemset/problem/613/B/
+348	B	124	2235	http://codeforces.com/problemset/problem/348/B/
+582	B	349	2235	http://codeforces.com/problemset/problem/582/B/
+264	C	225	2239	http://codeforces.com/problemset/problem/264/C/
+235	C	4	2239	http://codeforces.com/problemset/problem/235/C/
+671	B	255	2240	http://codeforces.com/problemset/problem/671/B/
+603	B	324	2241	http://codeforces.com/problemset/problem/603/B/
+258	B	223	2241	http://codeforces.com/problemset/problem/258/B/
+191	C	161	2243	http://codeforces.com/problemset/problem/191/C/
+498	C	268	2243	http://codeforces.com/problemset/problem/498/C/
+607	B	341	2244	http://codeforces.com/problemset/problem/607/B/
+356	C	122	2246	http://codeforces.com/problemset/problem/356/C/
+204	C	124	2248	http://codeforces.com/problemset/problem/204/C/
+229	D	117	2249	http://codeforces.com/problemset/problem/229/D/
+223	C	199	2250	http://codeforces.com/problemset/problem/223/C/
+196	B	119	2251	http://codeforces.com/problemset/problem/196/B/
+145	C	86	2252	http://codeforces.com/problemset/problem/145/C/
+217	B	92	2253	http://codeforces.com/problemset/problem/217/B/
+559	C	321	2253	http://codeforces.com/problemset/problem/559/C/
+311	B	35	2263	http://codeforces.com/problemset/problem/311/B/
+666	B	201	2264	http://codeforces.com/problemset/problem/666/B/
+364	B	124	2266	http://codeforces.com/problemset/problem/364/B/
+477	C	183	2268	http://codeforces.com/problemset/problem/477/C/
+249	B	34	2268	http://codeforces.com/problemset/problem/249/B/
+193	B	115	2268	http://codeforces.com/problemset/problem/193/B/
+277	B	92	2268	http://codeforces.com/problemset/problem/277/B/
+251	C	125	2269	http://codeforces.com/problemset/problem/251/C/
+286	B	108	2270	http://codeforces.com/problemset/problem/286/B/
+273	C	77	2271	http://codeforces.com/problemset/problem/273/C/
+455	C	244	2272	http://codeforces.com/problemset/problem/455/C/
+338	C	72	2274	http://codeforces.com/problemset/problem/338/C/
+587	B	229	2275	http://codeforces.com/problemset/problem/587/B/
+223	B	163	2275	http://codeforces.com/problemset/problem/223/B/
+201	C	102	2276	http://codeforces.com/problemset/problem/201/C/
+261	C	152	2278	http://codeforces.com/problemset/problem/261/C/
+601	B	249	2279	http://codeforces.com/problemset/problem/601/B/
+590	B	198	2279	http://codeforces.com/problemset/problem/590/B/
+429	D	116	2280	http://codeforces.com/problemset/problem/429/D/
+295	C	168	2282	http://codeforces.com/problemset/problem/295/C/
+321	C	146	2283	http://codeforces.com/problemset/problem/321/C/
+414	C	249	2284	http://codeforces.com/problemset/problem/414/C/
+425	B	122	2286	http://codeforces.com/problemset/problem/425/B/
+380	B	77	2286	http://codeforces.com/problemset/problem/380/B/
+351	E	146	2286	http://codeforces.com/problemset/problem/351/E/
+283	C	120	2286	http://codeforces.com/problemset/problem/283/C/
+663	C	126	2288	http://codeforces.com/problemset/problem/663/C/
+403	C	130	2289	http://codeforces.com/problemset/problem/403/C/
+487	C	112	2289	http://codeforces.com/problemset/problem/487/C/
+406	C	104	2290	http://codeforces.com/problemset/problem/406/C/
+406	D	116	2291	http://codeforces.com/problemset/problem/406/D/
+497	C	235	2291	http://codeforces.com/problemset/problem/497/C/
+553	C	222	2294	http://codeforces.com/problemset/problem/553/C/
+679	B	200	2295	http://codeforces.com/problemset/problem/679/B/
+249	D	6	2295	http://codeforces.com/problemset/problem/249/D/
+258	C	145	2298	http://codeforces.com/problemset/problem/258/C/
+256	C	87	2299	http://codeforces.com/problemset/problem/256/C/
+506	B	199	2301	http://codeforces.com/problemset/problem/506/B/
+555	C	261	2301	http://codeforces.com/problemset/problem/555/C/
+425	D	97	2302	http://codeforces.com/problemset/problem/425/D/
+274	D	85	2304	http://codeforces.com/problemset/problem/274/D/
+301	D	89	2306	http://codeforces.com/problemset/problem/301/D/
+587	C	192	2306	http://codeforces.com/problemset/problem/587/C/
+383	D	108	2307	http://codeforces.com/problemset/problem/383/D/
+383	B	41	2309	http://codeforces.com/problemset/problem/383/B/
+142	C	78	2309	http://codeforces.com/problemset/problem/142/C/
+444	B	94	2313	http://codeforces.com/problemset/problem/444/B/
+464	C	235	2314	http://codeforces.com/problemset/problem/464/C/
+364	C	75	2315	http://codeforces.com/problemset/problem/364/C/
+650	C	216	2316	http://codeforces.com/problemset/problem/650/C/
+150	C	82	2316	http://codeforces.com/problemset/problem/150/C/
+226	D	94	2316	http://codeforces.com/problemset/problem/226/D/
+521	C	172	2316	http://codeforces.com/problemset/problem/521/C/
+354	E	137	2317	http://codeforces.com/problemset/problem/354/E/
+590	C	150	2317	http://codeforces.com/problemset/problem/590/C/
+516	C	213	2320	http://codeforces.com/problemset/problem/516/C/
+547	C	189	2320	http://codeforces.com/problemset/problem/547/C/
+348	D	24	2320	http://codeforces.com/problemset/problem/348/D/
+438	D	101	2324	http://codeforces.com/problemset/problem/438/D/
+377	C	112	2325	http://codeforces.com/problemset/problem/377/C/
+238	C	91	2329	http://codeforces.com/problemset/problem/238/C/
+372	C	157	2332	http://codeforces.com/problemset/problem/372/C/
+297	C	45	2334	http://codeforces.com/problemset/problem/297/C/
+269	C	134	2335	http://codeforces.com/problemset/problem/269/C/
+603	C	211	2338	http://codeforces.com/problemset/problem/603/C/
+343	D	145	2340	http://codeforces.com/problemset/problem/343/D/
+319	C	136	2340	http://codeforces.com/problemset/problem/319/C/
+277	E	65	2340	http://codeforces.com/problemset/problem/277/E/
+543	D	73	2342	http://codeforces.com/problemset/problem/543/D/
+243	E	1	2343	http://codeforces.com/problemset/problem/243/E/
+594	C	111	2343	http://codeforces.com/problemset/problem/594/C/
+154	C	47	2344	http://codeforces.com/problemset/problem/154/C/
+220	C	105	2346	http://codeforces.com/problemset/problem/220/C/
+585	D	129	2347	http://codeforces.com/problemset/problem/585/D/
+317	D	94	2347	http://codeforces.com/problemset/problem/317/D/
+461	C	211	2347	http://codeforces.com/problemset/problem/461/C/
+449	C	66	2348	http://codeforces.com/problemset/problem/449/C/
+196	C	62	2348	http://codeforces.com/problemset/problem/196/C/
+280	C	91	2349	http://codeforces.com/problemset/problem/280/C/
+573	C	144	2352	http://codeforces.com/problemset/problem/573/C/
+301	C	32	2353	http://codeforces.com/problemset/problem/301/C/
+273	D	38	2356	http://codeforces.com/problemset/problem/273/D/
+346	C	83	2357	http://codeforces.com/problemset/problem/346/C/
+444	C	59	2363	http://codeforces.com/problemset/problem/444/C/
+249	E	6	2371	http://codeforces.com/problemset/problem/249/E/
+528	E	3	2371	http://codeforces.com/problemset/problem/528/E/
+585	C	77	2372	http://codeforces.com/problemset/problem/585/C/
+453	C	141	2373	http://codeforces.com/problemset/problem/453/C/
+594	B	34	2373	http://codeforces.com/problemset/problem/594/B/
+341	E	1	2376	http://codeforces.com/problemset/problem/341/E/
+455	D	20	2377	http://codeforces.com/problemset/problem/455/D/
+329	C	54	2377	http://codeforces.com/problemset/problem/329/C/
+429	C	75	2379	http://codeforces.com/problemset/problem/429/C/
+329	D	37	2379	http://codeforces.com/problemset/problem/329/D/
+213	D	40	2379	http://codeforces.com/problemset/problem/213/D/
+145	E	37	2380	http://codeforces.com/problemset/problem/145/E/
+480	D	25	2383	http://codeforces.com/problemset/problem/480/D/
+605	C	106	2383	http://codeforces.com/problemset/problem/605/C/
+191	E	55	2386	http://codeforces.com/problemset/problem/191/E/
+484	D	82	2386	http://codeforces.com/problemset/problem/484/D/
+679	C	127	2390	http://codeforces.com/problemset/problem/679/C/
+167	C	75	2392	http://codeforces.com/problemset/problem/167/C/
+553	D	131	2399	http://codeforces.com/problemset/problem/553/D/
+201	D	11	2404	http://codeforces.com/problemset/problem/201/D/
+512	C	143	2404	http://codeforces.com/problemset/problem/512/C/
+506	D	113	2404	http://codeforces.com/problemset/problem/506/D/
+154	D	46	2405	http://codeforces.com/problemset/problem/154/D/
+498	B	76	2406	http://codeforces.com/problemset/problem/498/B/
+414	D	107	2406	http://codeforces.com/problemset/problem/414/D/
+295	E	35	2407	http://codeforces.com/problemset/problem/295/E/
+311	E	2	2407	http://codeforces.com/problemset/problem/311/E/
+314	E	4	2407	http://codeforces.com/problemset/problem/314/E/
+449	D	80	2408	http://codeforces.com/problemset/problem/449/D/
+601	C	154	2411	http://codeforces.com/problemset/problem/601/C/
+364	E	1	2412	http://codeforces.com/problemset/problem/364/E/
+288	D	49	2412	http://codeforces.com/problemset/problem/288/D/
+444	D	39	2415	http://codeforces.com/problemset/problem/444/D/
+283	D	30	2416	http://codeforces.com/problemset/problem/283/D/
+468	C	56	2417	http://codeforces.com/problemset/problem/468/C/
+229	E	12	2417	http://codeforces.com/problemset/problem/229/E/
+311	D	18	2419	http://codeforces.com/problemset/problem/311/D/
+249	C	9	2420	http://codeforces.com/problemset/problem/249/C/
+425	C	105	2421	http://codeforces.com/problemset/problem/425/C/
+258	E	38	2421	http://codeforces.com/problemset/problem/258/E/
+311	C	9	2422	http://codeforces.com/problemset/problem/311/C/
+226	C	22	2423	http://codeforces.com/problemset/problem/226/C/
+256	E	38	2424	http://codeforces.com/problemset/problem/256/E/
+341	D	30	2426	http://codeforces.com/problemset/problem/341/D/
+333	E	31	2430	http://codeforces.com/problemset/problem/333/E/
+403	D	77	2431	http://codeforces.com/problemset/problem/403/D/
+317	C	30	2433	http://codeforces.com/problemset/problem/317/C/
+351	C	33	2433	http://codeforces.com/problemset/problem/351/C/
+446	C	64	2434	http://codeforces.com/problemset/problem/446/C/
+348	C	23	2436	http://codeforces.com/problemset/problem/348/C/
+698	C	97	2437	http://codeforces.com/problemset/problem/698/C/
+191	D	6	2439	http://codeforces.com/problemset/problem/191/D/
+193	C	43	2441	http://codeforces.com/problemset/problem/193/C/
+613	C	78	2442	http://codeforces.com/problemset/problem/613/C/
+536	C	30	2447	http://codeforces.com/problemset/problem/536/C/
+314	D	31	2449	http://codeforces.com/problemset/problem/314/D/
+582	C	101	2449	http://codeforces.com/problemset/problem/582/C/
+354	B	37	2452	http://codeforces.com/problemset/problem/354/B/
+403	E	2	2453	http://codeforces.com/problemset/problem/403/E/
+277	C	48	2454	http://codeforces.com/problemset/problem/277/C/
+217	C	12	2456	http://codeforces.com/problemset/problem/217/C/
+605	D	76	2456	http://codeforces.com/problemset/problem/605/D/
+594	D	50	2456	http://codeforces.com/problemset/problem/594/D/
+220	E	37	2457	http://codeforces.com/problemset/problem/220/E/
+360	C	34	2459	http://codeforces.com/problemset/problem/360/C/
+375	D	47	2459	http://codeforces.com/problemset/problem/375/D/
+333	C	13	2459	http://codeforces.com/problemset/problem/333/C/
+274	C	11	2460	http://codeforces.com/problemset/problem/274/C/
+700	C	46	2463	http://codeforces.com/problemset/problem/700/C/
+446	D	6	2465	http://codeforces.com/problemset/problem/446/D/
+243	C	57	2465	http://codeforces.com/problemset/problem/243/C/
+590	D	106	2467	http://codeforces.com/problemset/problem/590/D/
+321	E	13	2468	http://codeforces.com/problemset/problem/321/E/
+375	C	26	2471	http://codeforces.com/problemset/problem/375/C/
+142	D	19	2474	http://codeforces.com/problemset/problem/142/D/
+442	C	46	2476	http://codeforces.com/problemset/problem/442/C/
+295	D	45	2477	http://codeforces.com/problemset/problem/295/D/
+201	E	12	2479	http://codeforces.com/problemset/problem/201/E/
+696	D	88	2482	http://codeforces.com/problemset/problem/696/D/
+528	C	59	2482	http://codeforces.com/problemset/problem/528/C/
+264	D	22	2483	http://codeforces.com/problemset/problem/264/D/
+568	D	13	2483	http://codeforces.com/problemset/problem/568/D/
+555	D	81	2484	http://codeforces.com/problemset/problem/555/D/
+484	E	19	2487	http://codeforces.com/problemset/problem/484/E/
+573	E	2	2488	http://codeforces.com/problemset/problem/573/E/
+607	C	67	2488	http://codeforces.com/problemset/problem/607/C/
+217	E	2	2494	http://codeforces.com/problemset/problem/217/E/
+204	D	29	2496	http://codeforces.com/problemset/problem/204/D/
+543	C	61	2496	http://codeforces.com/problemset/problem/543/C/
+351	D	10	2502	http://codeforces.com/problemset/problem/351/D/
+494	D	20	2503	http://codeforces.com/problemset/problem/494/D/
+407	D	11	2506	http://codeforces.com/problemset/problem/407/D/
+687	D	71	2510	http://codeforces.com/problemset/problem/687/D/
+571	C	64	2512	http://codeforces.com/problemset/problem/571/C/
+498	D	84	2513	http://codeforces.com/problemset/problem/498/D/
+547	D	30	2514	http://codeforces.com/problemset/problem/547/D/
+434	C	22	2514	http://codeforces.com/problemset/problem/434/C/
+303	C	36	2515	http://codeforces.com/problemset/problem/303/C/
+303	D	13	2518	http://codeforces.com/problemset/problem/303/D/
+601	D	80	2519	http://codeforces.com/problemset/problem/601/D/
+187	D	6	2522	http://codeforces.com/problemset/problem/187/D/
+380	D	43	2524	http://codeforces.com/problemset/problem/380/D/
+364	D	3	2524	http://codeforces.com/problemset/problem/364/D/
+587	F	3	2525	http://codeforces.com/problemset/problem/587/F/
+449	E	4	2528	http://codeforces.com/problemset/problem/449/E/
+286	D	13	2529	http://codeforces.com/problemset/problem/286/D/
+377	D	49	2530	http://codeforces.com/problemset/problem/377/D/
+666	C	53	2531	http://codeforces.com/problemset/problem/666/C/
+438	C	43	2533	http://codeforces.com/problemset/problem/438/C/
+360	D	13	2533	http://codeforces.com/problemset/problem/360/D/
+346	D	26	2538	http://codeforces.com/problemset/problem/346/D/
+198	E	23	2538	http://codeforces.com/problemset/problem/198/E/
+383	E	19	2540	http://codeforces.com/problemset/problem/383/E/
+464	E	1	2541	http://codeforces.com/problemset/problem/464/E/
+360	E	3	2543	http://codeforces.com/problemset/problem/360/E/
+650	D	58	2543	http://codeforces.com/problemset/problem/650/D/
+528	D	56	2544	http://codeforces.com/problemset/problem/528/D/
+429	E	6	2545	http://codeforces.com/problemset/problem/429/E/
+504	C	37	2545	http://codeforces.com/problemset/problem/504/C/
+482	C	21	2548	http://codeforces.com/problemset/problem/482/C/
+444	E	15	2549	http://codeforces.com/problemset/problem/444/E/
+261	E	4	2550	http://codeforces.com/problemset/problem/261/E/
+685	D	43	2551	http://codeforces.com/problemset/problem/685/D/
+220	D	20	2553	http://codeforces.com/problemset/problem/220/D/
+301	E	3	2555	http://codeforces.com/problemset/problem/301/E/
+156	D	26	2557	http://codeforces.com/problemset/problem/156/D/
+297	D	34	2559	http://codeforces.com/problemset/problem/297/D/
+504	D	21	2562	http://codeforces.com/problemset/problem/504/D/
+407	C	41	2568	http://codeforces.com/problemset/problem/407/C/
+261	D	11	2569	http://codeforces.com/problemset/problem/261/D/
+425	E	33	2576	http://codeforces.com/problemset/problem/425/E/
+461	D	13	2577	http://codeforces.com/problemset/problem/461/D/
+607	D	48	2577	http://codeforces.com/problemset/problem/607/D/
+547	E	15	2578	http://codeforces.com/problemset/problem/547/E/
+698	D	19	2581	http://codeforces.com/problemset/problem/698/D/
+286	E	5	2583	http://codeforces.com/problemset/problem/286/E/
+663	E	20	2583	http://codeforces.com/problemset/problem/663/E/
+150	D	15	2583	http://codeforces.com/problemset/problem/150/D/
+477	D	24	2583	http://codeforces.com/problemset/problem/477/D/
+487	D	19	2588	http://codeforces.com/problemset/problem/487/D/
+568	C	32	2589	http://codeforces.com/problemset/problem/568/C/
+484	C	24	2591	http://codeforces.com/problemset/problem/484/C/
+582	D	1	2591	http://codeforces.com/problemset/problem/582/D/
+273	E	15	2593	http://codeforces.com/problemset/problem/273/E/
+264	E	2	2596	http://codeforces.com/problemset/problem/264/E/
+406	E	8	2599	http://codeforces.com/problemset/problem/406/E/
+506	C	8	2600	http://codeforces.com/problemset/problem/506/C/
+198	C	29	2604	http://codeforces.com/problemset/problem/198/C/
+367	D	39	2604	http://codeforces.com/problemset/problem/367/D/
+494	C	29	2605	http://codeforces.com/problemset/problem/494/C/
+666	E	2	2606	http://codeforces.com/problemset/problem/666/E/
+571	D	4	2607	http://codeforces.com/problemset/problem/571/D/
+283	E	5	2607	http://codeforces.com/problemset/problem/283/E/
+372	D	22	2611	http://codeforces.com/problemset/problem/372/D/
+555	E	20	2617	http://codeforces.com/problemset/problem/555/E/
+198	D	4	2622	http://codeforces.com/problemset/problem/198/D/
+521	D	8	2623	http://codeforces.com/problemset/problem/521/D/
+187	E	1	2637	http://codeforces.com/problemset/problem/187/E/
+196	E	14	2639	http://codeforces.com/problemset/problem/196/E/
+288	E	5	2640	http://codeforces.com/problemset/problem/288/E/
+671	C	26	2642	http://codeforces.com/problemset/problem/671/C/
+582	E	9	2645	http://codeforces.com/problemset/problem/582/E/
+585	E	16	2647	http://codeforces.com/problemset/problem/585/E/
+338	E	14	2650	http://codeforces.com/problemset/problem/338/E/
+576	D	29	2651	http://codeforces.com/problemset/problem/576/D/
+559	D	25	2654	http://codeforces.com/problemset/problem/559/D/
+613	E	1	2656	http://codeforces.com/problemset/problem/613/E/
+685	C	17	2658	http://codeforces.com/problemset/problem/685/C/
+605	E	31	2661	http://codeforces.com/problemset/problem/605/E/
+698	E	13	2661	http://codeforces.com/problemset/problem/698/E/
+258	D	16	2670	http://codeforces.com/problemset/problem/258/D/
+512	E	18	2672	http://codeforces.com/problemset/problem/512/E/
+269	D	26	2673	http://codeforces.com/problemset/problem/269/D/
+343	E	6	2675	http://codeforces.com/problemset/problem/343/E/
+516	D	14	2676	http://codeforces.com/problemset/problem/516/D/
+372	E	2	2679	http://codeforces.com/problemset/problem/372/E/
+666	D	9	2683	http://codeforces.com/problemset/problem/666/D/
+497	D	8	2689	http://codeforces.com/problemset/problem/497/D/
+321	D	4	2694	http://codeforces.com/problemset/problem/321/D/
+497	E	8	2695	http://codeforces.com/problemset/problem/497/E/
+453	D	6	2699	http://codeforces.com/problemset/problem/453/D/
+587	E	14	2700	http://codeforces.com/problemset/problem/587/E/
+482	D	23	2701	http://codeforces.com/problemset/problem/482/D/
+603	E	3	2701	http://codeforces.com/problemset/problem/603/E/
+498	E	24	2703	http://codeforces.com/problemset/problem/498/E/
+464	D	21	2704	http://codeforces.com/problemset/problem/464/D/
+185	D	13	2707	http://codeforces.com/problemset/problem/185/D/
+213	E	5	2707	http://codeforces.com/problemset/problem/213/E/
+388	D	17	2709	http://codeforces.com/problemset/problem/388/D/
+685	E	21	2712	http://codeforces.com/problemset/problem/685/E/
+504	E	3	2714	http://codeforces.com/problemset/problem/504/E/
+453	E	1	2716	http://codeforces.com/problemset/problem/453/E/
+185	E	1	2717	http://codeforces.com/problemset/problem/185/E/
+442	D	20	2717	http://codeforces.com/problemset/problem/442/D/
+235	E	4	2719	http://codeforces.com/problemset/problem/235/E/
+613	D	22	2719	http://codeforces.com/problemset/problem/613/D/
+536	D	11	2720	http://codeforces.com/problemset/problem/536/D/
+356	D	8	2726	http://codeforces.com/problemset/problem/356/D/
+603	D	10	2730	http://codeforces.com/problemset/problem/603/D/
+671	D	14	2733	http://codeforces.com/problemset/problem/671/D/
+687	E	22	2736	http://codeforces.com/problemset/problem/687/E/
+696	E	11	2740	http://codeforces.com/problemset/problem/696/E/
+319	D	7	2743	http://codeforces.com/problemset/problem/319/D/
+461	E	6	2756	http://codeforces.com/problemset/problem/461/E/
+193	E	3	2758	http://codeforces.com/problemset/problem/193/E/
+480	E	4	2765	http://codeforces.com/problemset/problem/480/E/
+367	E	14	2774	http://codeforces.com/problemset/problem/367/E/
+338	D	4	2774	http://codeforces.com/problemset/problem/338/D/
+487	E	1	2782	http://codeforces.com/problemset/problem/487/E/
+455	E	7	2783	http://codeforces.com/problemset/problem/455/E/
+468	D	1	2786	http://codeforces.com/problemset/problem/468/D/
+559	E	8	2787	http://codeforces.com/problemset/problem/559/E/
+679	D	15	2788	http://codeforces.com/problemset/problem/679/D/
+573	D	9	2788	http://codeforces.com/problemset/problem/573/D/
+167	E	6	2794	http://codeforces.com/problemset/problem/167/E/
+601	E	13	2802	http://codeforces.com/problemset/problem/601/E/
+380	E	12	2807	http://codeforces.com/problemset/problem/380/E/
+700	D	5	2825	http://codeforces.com/problemset/problem/700/D/
+512	D	15	2829	http://codeforces.com/problemset/problem/512/D/
+256	D	4	2835	http://codeforces.com/problemset/problem/256/D/
+590	E	1	2837	http://codeforces.com/problemset/problem/590/E/
+576	E	1	2850	http://codeforces.com/problemset/problem/576/E/
+297	E	3	2853	http://codeforces.com/problemset/problem/297/E/
+434	D	1	2853	http://codeforces.com/problemset/problem/434/D/
+251	D	6	2859	http://codeforces.com/problemset/problem/251/D/
+238	E	3	2865	http://codeforces.com/problemset/problem/238/E/
+196	D	4	2872	http://codeforces.com/problemset/problem/196/D/
+698	F	9	2876	http://codeforces.com/problemset/problem/698/F/
+217	D	4	2886	http://codeforces.com/problemset/problem/217/D/
+167	D	2	2890	http://codeforces.com/problemset/problem/167/D/
+348	E	3	2891	http://codeforces.com/problemset/problem/348/E/
+587	D	1	2894	http://codeforces.com/problemset/problem/587/D/
+650	E	8	2895	http://codeforces.com/problemset/problem/650/E/
+679	E	3	2902	http://codeforces.com/problemset/problem/679/E/
+536	E	4	2918	http://codeforces.com/problemset/problem/536/E/
+377	E	4	2923	http://codeforces.com/problemset/problem/377/E/
+238	D	1	2930	http://codeforces.com/problemset/problem/238/D/
+414	E	1	2962	http://codeforces.com/problemset/problem/414/E/
+204	E	3	2967	http://codeforces.com/problemset/problem/204/E/
+277	D	4	3003	http://codeforces.com/problemset/problem/277/D/
+243	D	3	3015	http://codeforces.com/problemset/problem/243/D/
+193	D	2	3099	http://codeforces.com/problemset/problem/193/D/
+354	D	1	3102	http://codeforces.com/problemset/problem/354/D/
+516	E	1	3102	http://codeforces.com/problemset/problem/516/E/
+156	E	2	3148	http://codeforces.com/problemset/problem/156/E/
+663	D	2	3205	http://codeforces.com/problemset/problem/663/D/
+494	E	2	3255	http://codeforces.com/problemset/problem/494/E/
+521	E	2	3291	http://codeforces.com/problemset/problem/521/E/
+568	E	1	3481	http://codeforces.com/problemset/problem/568/E/
+235	D	1	3481	http://codeforces.com/problemset/problem/235/D/
+506	E	1	3481	http://codeforces.com/problemset/problem/506/E/
+232	D	1	3580	http://codeforces.com/problemset/problem/232/D/
+442	E	1	3580	http://codeforces.com/problemset/problem/442/E/
+145	D	1	3580	http://codeforces.com/problemset/problem/145/D/
