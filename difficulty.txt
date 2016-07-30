@@ -1,3 +1,7 @@
+<html>
+	<head><title>Codeforces Problem Difficulties</title></head>
+	<body>
+		<pre>
 Contest	Problem	Count	Difficulty	URI
 480	A	728	1982	<a href="http://codeforces.com/problemset/problem/480/A/">480A</a>
 516	A	1042	1991	<a href="http://codeforces.com/problemset/problem/516/A/">516A</a>
@@ -600,3 +604,6 @@ Contest	Problem	Count	Difficulty	URI
 232	D	1	3580	<a href="http://codeforces.com/problemset/problem/232/D/">232D</a>
 442	E	1	3580	<a href="http://codeforces.com/problemset/problem/442/E/">442E</a>
 145	D	1	3580	<a href="http://codeforces.com/problemset/problem/145/D/">145D</a>
+		</pre>
+	</body>
+</html>
