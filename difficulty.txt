@@ -1,602 +1,602 @@
 Contest	Problem	Count	Difficulty	URI
-480	A	728	1982	http://codeforces.com/problemset/problem/480/A/
-516	A	1042	1991	http://codeforces.com/problemset/problem/516/A/
-482	A	807	1994	http://codeforces.com/problemset/problem/482/A/
-468	A	783	2011	http://codeforces.com/problemset/problem/468/A/
-555	A	992	2011	http://codeforces.com/problemset/problem/555/A/
-576	A	912	2012	http://codeforces.com/problemset/problem/576/A/
-559	A	985	2016	http://codeforces.com/problemset/problem/559/A/
-497	A	716	2027	http://codeforces.com/problemset/problem/497/A/
-553	A	711	2030	http://codeforces.com/problemset/problem/553/A/
-573	A	1013	2032	http://codeforces.com/problemset/problem/573/A/
-461	A	960	2032	http://codeforces.com/problemset/problem/461/A/
-480	B	490	2040	http://codeforces.com/problemset/problem/480/B/
-568	A	752	2042	http://codeforces.com/problemset/problem/568/A/
-484	A	622	2043	http://codeforces.com/problemset/problem/484/A/
-477	A	705	2047	http://codeforces.com/problemset/problem/477/A/
-521	A	568	2048	http://codeforces.com/problemset/problem/521/A/
-367	A	595	2049	http://codeforces.com/problemset/problem/367/A/
-528	A	805	2051	http://codeforces.com/problemset/problem/528/A/
-288	A	573	2051	http://codeforces.com/problemset/problem/288/A/
-333	A	507	2054	http://codeforces.com/problemset/problem/333/A/
-494	A	658	2054	http://codeforces.com/problemset/problem/494/A/
-388	A	754	2055	http://codeforces.com/problemset/problem/388/A/
-286	A	480	2056	http://codeforces.com/problemset/problem/286/A/
-274	A	458	2056	http://codeforces.com/problemset/problem/274/A/
-512	A	801	2057	http://codeforces.com/problemset/problem/512/A/
-251	A	450	2057	http://codeforces.com/problemset/problem/251/A/
-536	A	457	2062	http://codeforces.com/problemset/problem/536/A/
-403	A	525	2063	http://codeforces.com/problemset/problem/403/A/
-383	A	604	2066	http://codeforces.com/problemset/problem/383/A/
-498	A	555	2066	http://codeforces.com/problemset/problem/498/A/
-449	A	368	2067	http://codeforces.com/problemset/problem/449/A/
-283	A	404	2068	http://codeforces.com/problemset/problem/283/A/
-573	B	828	2070	http://codeforces.com/problemset/problem/573/B/
-145	A	330	2070	http://codeforces.com/problemset/problem/145/A/
-354	A	492	2072	http://codeforces.com/problemset/problem/354/A/
-273	A	495	2073	http://codeforces.com/problemset/problem/273/A/
-329	A	472	2073	http://codeforces.com/problemset/problem/329/A/
-406	A	516	2073	http://codeforces.com/problemset/problem/406/A/
-277	A	592	2075	http://codeforces.com/problemset/problem/277/A/
-154	A	358	2076	http://codeforces.com/problemset/problem/154/A/
-356	A	459	2076	http://codeforces.com/problemset/problem/356/A/
-455	A	766	2076	http://codeforces.com/problemset/problem/455/A/
-311	A	443	2077	http://codeforces.com/problemset/problem/311/A/
-150	A	384	2078	http://codeforces.com/problemset/problem/150/A/
-288	B	536	2078	http://codeforces.com/problemset/problem/288/B/
-414	A	663	2080	http://codeforces.com/problemset/problem/414/A/
-364	A	440	2080	http://codeforces.com/problemset/problem/364/A/
-414	B	688	2081	http://codeforces.com/problemset/problem/414/B/
-295	A	549	2081	http://codeforces.com/problemset/problem/295/A/
-235	A	313	2082	http://codeforces.com/problemset/problem/235/A/
-226	A	387	2083	http://codeforces.com/problemset/problem/226/A/
-348	A	450	2083	http://codeforces.com/problemset/problem/348/A/
-453	A	637	2084	http://codeforces.com/problemset/problem/453/A/
-487	A	467	2085	http://codeforces.com/problemset/problem/487/A/
-429	A	645	2086	http://codeforces.com/problemset/problem/429/A/
-338	A	318	2087	http://codeforces.com/problemset/problem/338/A/
-329	B	449	2089	http://codeforces.com/problemset/problem/329/B/
-346	A	494	2089	http://codeforces.com/problemset/problem/346/A/
-343	A	503	2090	http://codeforces.com/problemset/problem/343/A/
-150	B	378	2091	http://codeforces.com/problemset/problem/150/B/
-264	A	518	2092	http://codeforces.com/problemset/problem/264/A/
-341	A	443	2093	http://codeforces.com/problemset/problem/341/A/
-351	A	304	2093	http://codeforces.com/problemset/problem/351/A/
-504	A	513	2093	http://codeforces.com/problemset/problem/504/A/
-261	A	409	2094	http://codeforces.com/problemset/problem/261/A/
-343	B	480	2094	http://codeforces.com/problemset/problem/343/B/
-559	B	588	2094	http://codeforces.com/problemset/problem/559/B/
-217	A	331	2095	http://codeforces.com/problemset/problem/217/A/
-156	A	242	2097	http://codeforces.com/problemset/problem/156/A/
-438	A	651	2097	http://codeforces.com/problemset/problem/438/A/
-341	B	492	2098	http://codeforces.com/problemset/problem/341/B/
-482	B	462	2099	http://codeforces.com/problemset/problem/482/B/
-154	B	334	2101	http://codeforces.com/problemset/problem/154/B/
-229	A	279	2102	http://codeforces.com/problemset/problem/229/A/
-167	A	364	2102	http://codeforces.com/problemset/problem/167/A/
-220	A	388	2103	http://codeforces.com/problemset/problem/220/A/
-258	A	478	2103	http://codeforces.com/problemset/problem/258/A/
-425	A	505	2103	http://codeforces.com/problemset/problem/425/A/
-314	A	410	2104	http://codeforces.com/problemset/problem/314/A/
-477	B	467	2108	http://codeforces.com/problemset/problem/477/B/
-380	A	478	2108	http://codeforces.com/problemset/problem/380/A/
-547	B	582	2108	http://codeforces.com/problemset/problem/547/B/
-480	C	387	2109	http://codeforces.com/problemset/problem/480/C/
-295	B	460	2110	http://codeforces.com/problemset/problem/295/B/
-297	A	396	2110	http://codeforces.com/problemset/problem/297/A/
-283	B	400	2110	http://codeforces.com/problemset/problem/283/B/
-317	A	432	2111	http://codeforces.com/problemset/problem/317/A/
-446	A	426	2112	http://codeforces.com/problemset/problem/446/A/
-333	B	363	2112	http://codeforces.com/problemset/problem/333/B/
-273	B	389	2112	http://codeforces.com/problemset/problem/273/B/
-377	A	460	2113	http://codeforces.com/problemset/problem/377/A/
-568	B	565	2113	http://codeforces.com/problemset/problem/568/B/
-372	A	490	2113	http://codeforces.com/problemset/problem/372/A/
-698	A	556	2113	http://codeforces.com/problemset/problem/698/A/
-288	C	436	2115	http://codeforces.com/problemset/problem/288/C/
-444	A	403	2116	http://codeforces.com/problemset/problem/444/A/
-429	B	491	2116	http://codeforces.com/problemset/problem/429/B/
-232	A	258	2117	http://codeforces.com/problemset/problem/232/A/
-406	B	440	2119	http://codeforces.com/problemset/problem/406/B/
-543	A	459	2119	http://codeforces.com/problemset/problem/543/A/
-269	A	465	2119	http://codeforces.com/problemset/problem/269/A/
-464	A	551	2120	http://codeforces.com/problemset/problem/464/A/
-145	B	168	2121	http://codeforces.com/problemset/problem/145/B/
-187	A	279	2121	http://codeforces.com/problemset/problem/187/A/
-687	A	533	2122	http://codeforces.com/problemset/problem/687/A/
-407	A	335	2122	http://codeforces.com/problemset/problem/407/A/
-142	A	331	2123	http://codeforces.com/problemset/problem/142/A/
-407	B	388	2124	http://codeforces.com/problemset/problem/407/B/
-303	A	386	2124	http://codeforces.com/problemset/problem/303/A/
-196	A	365	2124	http://codeforces.com/problemset/problem/196/A/
-360	A	289	2126	http://codeforces.com/problemset/problem/360/A/
-528	B	597	2126	http://codeforces.com/problemset/problem/528/B/
-256	A	272	2126	http://codeforces.com/problemset/problem/256/A/
-319	A	415	2126	http://codeforces.com/problemset/problem/319/A/
-297	B	445	2126	http://codeforces.com/problemset/problem/297/B/
-229	B	244	2128	http://codeforces.com/problemset/problem/229/B/
-375	A	384	2128	http://codeforces.com/problemset/problem/375/A/
-185	A	336	2128	http://codeforces.com/problemset/problem/185/A/
-213	A	195	2129	http://codeforces.com/problemset/problem/213/A/
-553	B	415	2129	http://codeforces.com/problemset/problem/553/B/
-204	B	263	2130	http://codeforces.com/problemset/problem/204/B/
-685	A	441	2130	http://codeforces.com/problemset/problem/685/A/
-142	B	247	2131	http://codeforces.com/problemset/problem/142/B/
-243	A	279	2131	http://codeforces.com/problemset/problem/243/A/
-698	B	496	2131	http://codeforces.com/problemset/problem/698/B/
-264	B	426	2133	http://codeforces.com/problemset/problem/264/B/
-696	A	456	2133	http://codeforces.com/problemset/problem/696/A/
-280	D	4	2134	http://codeforces.com/problemset/problem/280/D/
-321	A	269	2135	http://codeforces.com/problemset/problem/321/A/
-191	A	273	2135	http://codeforces.com/problemset/problem/191/A/
-679	A	529	2136	http://codeforces.com/problemset/problem/679/A/
-274	B	310	2139	http://codeforces.com/problemset/problem/274/B/
-204	A	252	2139	http://codeforces.com/problemset/problem/204/A/
-238	A	314	2139	http://codeforces.com/problemset/problem/238/A/
-434	A	232	2141	http://codeforces.com/problemset/problem/434/A/
-156	B	284	2142	http://codeforces.com/problemset/problem/156/B/
-301	A	319	2143	http://codeforces.com/problemset/problem/301/A/
-251	B	212	2143	http://codeforces.com/problemset/problem/251/B/
-201	A	210	2146	http://codeforces.com/problemset/problem/201/A/
-555	B	528	2147	http://codeforces.com/problemset/problem/555/B/
-696	B	438	2148	http://codeforces.com/problemset/problem/696/B/
-367	B	282	2148	http://codeforces.com/problemset/problem/367/B/
-516	B	357	2149	http://codeforces.com/problemset/problem/516/B/
-249	A	75	2149	http://codeforces.com/problemset/problem/249/A/
-497	B	454	2150	http://codeforces.com/problemset/problem/497/B/
-512	B	509	2154	http://codeforces.com/problemset/problem/512/B/
-167	B	199	2156	http://codeforces.com/problemset/problem/167/B/
-191	B	223	2156	http://codeforces.com/problemset/problem/191/B/
-442	B	284	2156	http://codeforces.com/problemset/problem/442/B/
-256	B	244	2157	http://codeforces.com/problemset/problem/256/B/
-700	A	283	2158	http://codeforces.com/problemset/problem/700/A/
-269	B	388	2158	http://codeforces.com/problemset/problem/269/B/
-280	B	266	2160	http://codeforces.com/problemset/problem/280/B/
-193	A	196	2161	http://codeforces.com/problemset/problem/193/A/
-321	B	219	2161	http://codeforces.com/problemset/problem/321/B/
-351	B	324	2161	http://codeforces.com/problemset/problem/351/B/
-442	A	344	2161	http://codeforces.com/problemset/problem/442/A/
-536	B	308	2162	http://codeforces.com/problemset/problem/536/B/
-356	B	276	2162	http://codeforces.com/problemset/problem/356/B/
-449	B	209	2163	http://codeforces.com/problemset/problem/449/B/
-303	B	244	2164	http://codeforces.com/problemset/problem/303/B/
-301	B	133	2164	http://codeforces.com/problemset/problem/301/B/
-403	B	236	2165	http://codeforces.com/problemset/problem/403/B/
-198	A	213	2165	http://codeforces.com/problemset/problem/198/A/
-198	B	232	2166	http://codeforces.com/problemset/problem/198/B/
-650	A	478	2167	http://codeforces.com/problemset/problem/650/A/
-468	B	263	2168	http://codeforces.com/problemset/problem/468/B/
-663	A	183	2170	http://codeforces.com/problemset/problem/663/A/
-187	B	166	2172	http://codeforces.com/problemset/problem/187/B/
-223	A	244	2175	http://codeforces.com/problemset/problem/223/A/
-375	B	314	2176	http://codeforces.com/problemset/problem/375/B/
-685	B	362	2178	http://codeforces.com/problemset/problem/685/B/
-484	B	266	2179	http://codeforces.com/problemset/problem/484/B/
-671	A	313	2181	http://codeforces.com/problemset/problem/671/A/
-687	C	414	2182	http://codeforces.com/problemset/problem/687/C/
-229	C	194	2182	http://codeforces.com/problemset/problem/229/C/
-687	B	354	2182	http://codeforces.com/problemset/problem/687/B/
-388	B	381	2184	http://codeforces.com/problemset/problem/388/B/
-663	B	97	2184	http://codeforces.com/problemset/problem/663/B/
-220	B	213	2185	http://codeforces.com/problemset/problem/220/B/
-455	B	374	2185	http://codeforces.com/problemset/problem/455/B/
-605	A	389	2186	http://codeforces.com/problemset/problem/605/A/
-372	B	367	2190	http://codeforces.com/problemset/problem/372/B/
-226	B	222	2191	http://codeforces.com/problemset/problem/226/B/
-666	A	280	2192	http://codeforces.com/problemset/problem/666/A/
-587	A	412	2192	http://codeforces.com/problemset/problem/587/A/
-286	C	122	2193	http://codeforces.com/problemset/problem/286/C/
-603	A	407	2194	http://codeforces.com/problemset/problem/603/A/
-235	B	153	2194	http://codeforces.com/problemset/problem/235/B/
-187	C	101	2196	http://codeforces.com/problemset/problem/187/C/
-446	B	342	2197	http://codeforces.com/problemset/problem/446/B/
-317	B	241	2197	http://codeforces.com/problemset/problem/317/B/
-601	A	373	2197	http://codeforces.com/problemset/problem/601/A/
-201	B	187	2198	http://codeforces.com/problemset/problem/201/B/
-213	B	136	2198	http://codeforces.com/problemset/problem/213/B/
-338	B	198	2199	http://codeforces.com/problemset/problem/338/B/
-700	B	279	2200	http://codeforces.com/problemset/problem/700/B/
-343	C	305	2201	http://codeforces.com/problemset/problem/343/C/
-461	B	408	2201	http://codeforces.com/problemset/problem/461/B/
-607	A	430	2201	http://codeforces.com/problemset/problem/607/A/
-377	B	306	2203	http://codeforces.com/problemset/problem/377/B/
-585	A	236	2203	http://codeforces.com/problemset/problem/585/A/
-319	B	266	2204	http://codeforces.com/problemset/problem/319/B/
-585	B	309	2204	http://codeforces.com/problemset/problem/585/B/
-590	A	353	2206	http://codeforces.com/problemset/problem/590/A/
-605	B	370	2206	http://codeforces.com/problemset/problem/605/B/
-438	B	381	2208	http://codeforces.com/problemset/problem/438/B/
-506	A	294	2208	http://codeforces.com/problemset/problem/506/A/
-261	B	190	2209	http://codeforces.com/problemset/problem/261/B/
-280	A	146	2209	http://codeforces.com/problemset/problem/280/A/
-383	C	297	2209	http://codeforces.com/problemset/problem/383/C/
-238	B	181	2209	http://codeforces.com/problemset/problem/238/B/
-504	B	313	2210	http://codeforces.com/problemset/problem/504/B/
-487	B	260	2211	http://codeforces.com/problemset/problem/487/B/
-453	B	320	2214	http://codeforces.com/problemset/problem/453/B/
-696	C	302	2214	http://codeforces.com/problemset/problem/696/C/
-243	B	106	2214	http://codeforces.com/problemset/problem/243/B/
-576	C	288	2214	http://codeforces.com/problemset/problem/576/C/
-547	A	156	2214	http://codeforces.com/problemset/problem/547/A/
-185	B	177	2216	http://codeforces.com/problemset/problem/185/B/
-341	C	245	2217	http://codeforces.com/problemset/problem/341/C/
-582	A	377	2217	http://codeforces.com/problemset/problem/582/A/
-613	A	289	2219	http://codeforces.com/problemset/problem/613/A/
-650	B	302	2219	http://codeforces.com/problemset/problem/650/B/
-521	B	245	2219	http://codeforces.com/problemset/problem/521/B/
-464	B	275	2220	http://codeforces.com/problemset/problem/464/B/
-232	B	179	2220	http://codeforces.com/problemset/problem/232/B/
-434	B	191	2220	http://codeforces.com/problemset/problem/434/B/
-576	B	279	2221	http://codeforces.com/problemset/problem/576/B/
-543	B	224	2221	http://codeforces.com/problemset/problem/543/B/
-354	C	127	2222	http://codeforces.com/problemset/problem/354/C/
-360	B	129	2223	http://codeforces.com/problemset/problem/360/B/
-367	C	256	2224	http://codeforces.com/problemset/problem/367/C/
-388	C	299	2225	http://codeforces.com/problemset/problem/388/C/
-333	D	121	2225	http://codeforces.com/problemset/problem/333/D/
-571	A	240	2228	http://codeforces.com/problemset/problem/571/A/
-571	B	329	2228	http://codeforces.com/problemset/problem/571/B/
-380	C	255	2229	http://codeforces.com/problemset/problem/380/C/
-156	C	172	2229	http://codeforces.com/problemset/problem/156/C/
-494	B	348	2229	http://codeforces.com/problemset/problem/494/B/
-314	B	170	2231	http://codeforces.com/problemset/problem/314/B/
-213	C	108	2232	http://codeforces.com/problemset/problem/213/C/
-314	C	174	2234	http://codeforces.com/problemset/problem/314/C/
-346	B	172	2234	http://codeforces.com/problemset/problem/346/B/
-613	B	263	2234	http://codeforces.com/problemset/problem/613/B/
-348	B	124	2235	http://codeforces.com/problemset/problem/348/B/
-582	B	349	2235	http://codeforces.com/problemset/problem/582/B/
-264	C	225	2239	http://codeforces.com/problemset/problem/264/C/
-235	C	4	2239	http://codeforces.com/problemset/problem/235/C/
-671	B	255	2240	http://codeforces.com/problemset/problem/671/B/
-603	B	324	2241	http://codeforces.com/problemset/problem/603/B/
-258	B	223	2241	http://codeforces.com/problemset/problem/258/B/
-191	C	161	2243	http://codeforces.com/problemset/problem/191/C/
-498	C	268	2243	http://codeforces.com/problemset/problem/498/C/
-607	B	341	2244	http://codeforces.com/problemset/problem/607/B/
-356	C	122	2246	http://codeforces.com/problemset/problem/356/C/
-204	C	124	2248	http://codeforces.com/problemset/problem/204/C/
-229	D	117	2249	http://codeforces.com/problemset/problem/229/D/
-223	C	199	2250	http://codeforces.com/problemset/problem/223/C/
-196	B	119	2251	http://codeforces.com/problemset/problem/196/B/
-145	C	86	2252	http://codeforces.com/problemset/problem/145/C/
-217	B	92	2253	http://codeforces.com/problemset/problem/217/B/
-559	C	321	2253	http://codeforces.com/problemset/problem/559/C/
-311	B	35	2263	http://codeforces.com/problemset/problem/311/B/
-666	B	201	2264	http://codeforces.com/problemset/problem/666/B/
-364	B	124	2266	http://codeforces.com/problemset/problem/364/B/
-477	C	183	2268	http://codeforces.com/problemset/problem/477/C/
-249	B	34	2268	http://codeforces.com/problemset/problem/249/B/
-193	B	115	2268	http://codeforces.com/problemset/problem/193/B/
-277	B	92	2268	http://codeforces.com/problemset/problem/277/B/
-251	C	125	2269	http://codeforces.com/problemset/problem/251/C/
-286	B	108	2270	http://codeforces.com/problemset/problem/286/B/
-273	C	77	2271	http://codeforces.com/problemset/problem/273/C/
-455	C	244	2272	http://codeforces.com/problemset/problem/455/C/
-338	C	72	2274	http://codeforces.com/problemset/problem/338/C/
-587	B	229	2275	http://codeforces.com/problemset/problem/587/B/
-223	B	163	2275	http://codeforces.com/problemset/problem/223/B/
-201	C	102	2276	http://codeforces.com/problemset/problem/201/C/
-261	C	152	2278	http://codeforces.com/problemset/problem/261/C/
-601	B	249	2279	http://codeforces.com/problemset/problem/601/B/
-590	B	198	2279	http://codeforces.com/problemset/problem/590/B/
-429	D	116	2280	http://codeforces.com/problemset/problem/429/D/
-295	C	168	2282	http://codeforces.com/problemset/problem/295/C/
-321	C	146	2283	http://codeforces.com/problemset/problem/321/C/
-414	C	249	2284	http://codeforces.com/problemset/problem/414/C/
-425	B	122	2286	http://codeforces.com/problemset/problem/425/B/
-380	B	77	2286	http://codeforces.com/problemset/problem/380/B/
-351	E	146	2286	http://codeforces.com/problemset/problem/351/E/
-283	C	120	2286	http://codeforces.com/problemset/problem/283/C/
-663	C	126	2288	http://codeforces.com/problemset/problem/663/C/
-403	C	130	2289	http://codeforces.com/problemset/problem/403/C/
-487	C	112	2289	http://codeforces.com/problemset/problem/487/C/
-406	C	104	2290	http://codeforces.com/problemset/problem/406/C/
-406	D	116	2291	http://codeforces.com/problemset/problem/406/D/
-497	C	235	2291	http://codeforces.com/problemset/problem/497/C/
-553	C	222	2294	http://codeforces.com/problemset/problem/553/C/
-679	B	200	2295	http://codeforces.com/problemset/problem/679/B/
-249	D	6	2295	http://codeforces.com/problemset/problem/249/D/
-258	C	145	2298	http://codeforces.com/problemset/problem/258/C/
-256	C	87	2299	http://codeforces.com/problemset/problem/256/C/
-506	B	199	2301	http://codeforces.com/problemset/problem/506/B/
-555	C	261	2301	http://codeforces.com/problemset/problem/555/C/
-425	D	97	2302	http://codeforces.com/problemset/problem/425/D/
-274	D	85	2304	http://codeforces.com/problemset/problem/274/D/
-301	D	89	2306	http://codeforces.com/problemset/problem/301/D/
-587	C	192	2306	http://codeforces.com/problemset/problem/587/C/
-383	D	108	2307	http://codeforces.com/problemset/problem/383/D/
-383	B	41	2309	http://codeforces.com/problemset/problem/383/B/
-142	C	78	2309	http://codeforces.com/problemset/problem/142/C/
-444	B	94	2313	http://codeforces.com/problemset/problem/444/B/
-464	C	235	2314	http://codeforces.com/problemset/problem/464/C/
-364	C	75	2315	http://codeforces.com/problemset/problem/364/C/
-650	C	216	2316	http://codeforces.com/problemset/problem/650/C/
-150	C	82	2316	http://codeforces.com/problemset/problem/150/C/
-226	D	94	2316	http://codeforces.com/problemset/problem/226/D/
-521	C	172	2316	http://codeforces.com/problemset/problem/521/C/
-354	E	137	2317	http://codeforces.com/problemset/problem/354/E/
-590	C	150	2317	http://codeforces.com/problemset/problem/590/C/
-516	C	213	2320	http://codeforces.com/problemset/problem/516/C/
-547	C	189	2320	http://codeforces.com/problemset/problem/547/C/
-348	D	24	2320	http://codeforces.com/problemset/problem/348/D/
-438	D	101	2324	http://codeforces.com/problemset/problem/438/D/
-377	C	112	2325	http://codeforces.com/problemset/problem/377/C/
-238	C	91	2329	http://codeforces.com/problemset/problem/238/C/
-372	C	157	2332	http://codeforces.com/problemset/problem/372/C/
-297	C	45	2334	http://codeforces.com/problemset/problem/297/C/
-269	C	134	2335	http://codeforces.com/problemset/problem/269/C/
-603	C	211	2338	http://codeforces.com/problemset/problem/603/C/
-343	D	145	2340	http://codeforces.com/problemset/problem/343/D/
-319	C	136	2340	http://codeforces.com/problemset/problem/319/C/
-277	E	65	2340	http://codeforces.com/problemset/problem/277/E/
-543	D	73	2342	http://codeforces.com/problemset/problem/543/D/
-243	E	1	2343	http://codeforces.com/problemset/problem/243/E/
-594	C	111	2343	http://codeforces.com/problemset/problem/594/C/
-154	C	47	2344	http://codeforces.com/problemset/problem/154/C/
-220	C	105	2346	http://codeforces.com/problemset/problem/220/C/
-585	D	129	2347	http://codeforces.com/problemset/problem/585/D/
-317	D	94	2347	http://codeforces.com/problemset/problem/317/D/
-461	C	211	2347	http://codeforces.com/problemset/problem/461/C/
-449	C	66	2348	http://codeforces.com/problemset/problem/449/C/
-196	C	62	2348	http://codeforces.com/problemset/problem/196/C/
-280	C	91	2349	http://codeforces.com/problemset/problem/280/C/
-573	C	144	2352	http://codeforces.com/problemset/problem/573/C/
-301	C	32	2353	http://codeforces.com/problemset/problem/301/C/
-273	D	38	2356	http://codeforces.com/problemset/problem/273/D/
-346	C	83	2357	http://codeforces.com/problemset/problem/346/C/
-444	C	59	2363	http://codeforces.com/problemset/problem/444/C/
-249	E	6	2371	http://codeforces.com/problemset/problem/249/E/
-528	E	3	2371	http://codeforces.com/problemset/problem/528/E/
-585	C	77	2372	http://codeforces.com/problemset/problem/585/C/
-453	C	141	2373	http://codeforces.com/problemset/problem/453/C/
-594	B	34	2373	http://codeforces.com/problemset/problem/594/B/
-341	E	1	2376	http://codeforces.com/problemset/problem/341/E/
-455	D	20	2377	http://codeforces.com/problemset/problem/455/D/
-329	C	54	2377	http://codeforces.com/problemset/problem/329/C/
-429	C	75	2379	http://codeforces.com/problemset/problem/429/C/
-329	D	37	2379	http://codeforces.com/problemset/problem/329/D/
-213	D	40	2379	http://codeforces.com/problemset/problem/213/D/
-145	E	37	2380	http://codeforces.com/problemset/problem/145/E/
-480	D	25	2383	http://codeforces.com/problemset/problem/480/D/
-605	C	106	2383	http://codeforces.com/problemset/problem/605/C/
-191	E	55	2386	http://codeforces.com/problemset/problem/191/E/
-484	D	82	2386	http://codeforces.com/problemset/problem/484/D/
-679	C	127	2390	http://codeforces.com/problemset/problem/679/C/
-167	C	75	2392	http://codeforces.com/problemset/problem/167/C/
-553	D	131	2399	http://codeforces.com/problemset/problem/553/D/
-201	D	11	2404	http://codeforces.com/problemset/problem/201/D/
-512	C	143	2404	http://codeforces.com/problemset/problem/512/C/
-506	D	113	2404	http://codeforces.com/problemset/problem/506/D/
-154	D	46	2405	http://codeforces.com/problemset/problem/154/D/
-498	B	76	2406	http://codeforces.com/problemset/problem/498/B/
-414	D	107	2406	http://codeforces.com/problemset/problem/414/D/
-295	E	35	2407	http://codeforces.com/problemset/problem/295/E/
-311	E	2	2407	http://codeforces.com/problemset/problem/311/E/
-314	E	4	2407	http://codeforces.com/problemset/problem/314/E/
-449	D	80	2408	http://codeforces.com/problemset/problem/449/D/
-601	C	154	2411	http://codeforces.com/problemset/problem/601/C/
-364	E	1	2412	http://codeforces.com/problemset/problem/364/E/
-288	D	49	2412	http://codeforces.com/problemset/problem/288/D/
-444	D	39	2415	http://codeforces.com/problemset/problem/444/D/
-283	D	30	2416	http://codeforces.com/problemset/problem/283/D/
-468	C	56	2417	http://codeforces.com/problemset/problem/468/C/
-229	E	12	2417	http://codeforces.com/problemset/problem/229/E/
-311	D	18	2419	http://codeforces.com/problemset/problem/311/D/
-249	C	9	2420	http://codeforces.com/problemset/problem/249/C/
-425	C	105	2421	http://codeforces.com/problemset/problem/425/C/
-258	E	38	2421	http://codeforces.com/problemset/problem/258/E/
-311	C	9	2422	http://codeforces.com/problemset/problem/311/C/
-226	C	22	2423	http://codeforces.com/problemset/problem/226/C/
-256	E	38	2424	http://codeforces.com/problemset/problem/256/E/
-341	D	30	2426	http://codeforces.com/problemset/problem/341/D/
-333	E	31	2430	http://codeforces.com/problemset/problem/333/E/
-403	D	77	2431	http://codeforces.com/problemset/problem/403/D/
-317	C	30	2433	http://codeforces.com/problemset/problem/317/C/
-351	C	33	2433	http://codeforces.com/problemset/problem/351/C/
-446	C	64	2434	http://codeforces.com/problemset/problem/446/C/
-348	C	23	2436	http://codeforces.com/problemset/problem/348/C/
-698	C	97	2437	http://codeforces.com/problemset/problem/698/C/
-191	D	6	2439	http://codeforces.com/problemset/problem/191/D/
-193	C	43	2441	http://codeforces.com/problemset/problem/193/C/
-613	C	78	2442	http://codeforces.com/problemset/problem/613/C/
-536	C	30	2447	http://codeforces.com/problemset/problem/536/C/
-314	D	31	2449	http://codeforces.com/problemset/problem/314/D/
-582	C	101	2449	http://codeforces.com/problemset/problem/582/C/
-354	B	37	2452	http://codeforces.com/problemset/problem/354/B/
-403	E	2	2453	http://codeforces.com/problemset/problem/403/E/
-277	C	48	2454	http://codeforces.com/problemset/problem/277/C/
-217	C	12	2456	http://codeforces.com/problemset/problem/217/C/
-605	D	76	2456	http://codeforces.com/problemset/problem/605/D/
-594	D	50	2456	http://codeforces.com/problemset/problem/594/D/
-220	E	37	2457	http://codeforces.com/problemset/problem/220/E/
-360	C	34	2459	http://codeforces.com/problemset/problem/360/C/
-375	D	47	2459	http://codeforces.com/problemset/problem/375/D/
-333	C	13	2459	http://codeforces.com/problemset/problem/333/C/
-274	C	11	2460	http://codeforces.com/problemset/problem/274/C/
-700	C	46	2463	http://codeforces.com/problemset/problem/700/C/
-446	D	6	2465	http://codeforces.com/problemset/problem/446/D/
-243	C	57	2465	http://codeforces.com/problemset/problem/243/C/
-590	D	106	2467	http://codeforces.com/problemset/problem/590/D/
-321	E	13	2468	http://codeforces.com/problemset/problem/321/E/
-375	C	26	2471	http://codeforces.com/problemset/problem/375/C/
-142	D	19	2474	http://codeforces.com/problemset/problem/142/D/
-442	C	46	2476	http://codeforces.com/problemset/problem/442/C/
-295	D	45	2477	http://codeforces.com/problemset/problem/295/D/
-201	E	12	2479	http://codeforces.com/problemset/problem/201/E/
-696	D	88	2482	http://codeforces.com/problemset/problem/696/D/
-528	C	59	2482	http://codeforces.com/problemset/problem/528/C/
-264	D	22	2483	http://codeforces.com/problemset/problem/264/D/
-568	D	13	2483	http://codeforces.com/problemset/problem/568/D/
-555	D	81	2484	http://codeforces.com/problemset/problem/555/D/
-484	E	19	2487	http://codeforces.com/problemset/problem/484/E/
-573	E	2	2488	http://codeforces.com/problemset/problem/573/E/
-607	C	67	2488	http://codeforces.com/problemset/problem/607/C/
-217	E	2	2494	http://codeforces.com/problemset/problem/217/E/
-204	D	29	2496	http://codeforces.com/problemset/problem/204/D/
-543	C	61	2496	http://codeforces.com/problemset/problem/543/C/
-351	D	10	2502	http://codeforces.com/problemset/problem/351/D/
-494	D	20	2503	http://codeforces.com/problemset/problem/494/D/
-407	D	11	2506	http://codeforces.com/problemset/problem/407/D/
-687	D	71	2510	http://codeforces.com/problemset/problem/687/D/
-571	C	64	2512	http://codeforces.com/problemset/problem/571/C/
-498	D	84	2513	http://codeforces.com/problemset/problem/498/D/
-547	D	30	2514	http://codeforces.com/problemset/problem/547/D/
-434	C	22	2514	http://codeforces.com/problemset/problem/434/C/
-303	C	36	2515	http://codeforces.com/problemset/problem/303/C/
-303	D	13	2518	http://codeforces.com/problemset/problem/303/D/
-601	D	80	2519	http://codeforces.com/problemset/problem/601/D/
-187	D	6	2522	http://codeforces.com/problemset/problem/187/D/
-380	D	43	2524	http://codeforces.com/problemset/problem/380/D/
-364	D	3	2524	http://codeforces.com/problemset/problem/364/D/
-587	F	3	2525	http://codeforces.com/problemset/problem/587/F/
-449	E	4	2528	http://codeforces.com/problemset/problem/449/E/
-286	D	13	2529	http://codeforces.com/problemset/problem/286/D/
-377	D	49	2530	http://codeforces.com/problemset/problem/377/D/
-666	C	53	2531	http://codeforces.com/problemset/problem/666/C/
-438	C	43	2533	http://codeforces.com/problemset/problem/438/C/
-360	D	13	2533	http://codeforces.com/problemset/problem/360/D/
-346	D	26	2538	http://codeforces.com/problemset/problem/346/D/
-198	E	23	2538	http://codeforces.com/problemset/problem/198/E/
-383	E	19	2540	http://codeforces.com/problemset/problem/383/E/
-464	E	1	2541	http://codeforces.com/problemset/problem/464/E/
-360	E	3	2543	http://codeforces.com/problemset/problem/360/E/
-650	D	58	2543	http://codeforces.com/problemset/problem/650/D/
-528	D	56	2544	http://codeforces.com/problemset/problem/528/D/
-429	E	6	2545	http://codeforces.com/problemset/problem/429/E/
-504	C	37	2545	http://codeforces.com/problemset/problem/504/C/
-482	C	21	2548	http://codeforces.com/problemset/problem/482/C/
-444	E	15	2549	http://codeforces.com/problemset/problem/444/E/
-261	E	4	2550	http://codeforces.com/problemset/problem/261/E/
-685	D	43	2551	http://codeforces.com/problemset/problem/685/D/
-220	D	20	2553	http://codeforces.com/problemset/problem/220/D/
-301	E	3	2555	http://codeforces.com/problemset/problem/301/E/
-156	D	26	2557	http://codeforces.com/problemset/problem/156/D/
-297	D	34	2559	http://codeforces.com/problemset/problem/297/D/
-504	D	21	2562	http://codeforces.com/problemset/problem/504/D/
-407	C	41	2568	http://codeforces.com/problemset/problem/407/C/
-261	D	11	2569	http://codeforces.com/problemset/problem/261/D/
-425	E	33	2576	http://codeforces.com/problemset/problem/425/E/
-461	D	13	2577	http://codeforces.com/problemset/problem/461/D/
-607	D	48	2577	http://codeforces.com/problemset/problem/607/D/
-547	E	15	2578	http://codeforces.com/problemset/problem/547/E/
-698	D	19	2581	http://codeforces.com/problemset/problem/698/D/
-286	E	5	2583	http://codeforces.com/problemset/problem/286/E/
-663	E	20	2583	http://codeforces.com/problemset/problem/663/E/
-150	D	15	2583	http://codeforces.com/problemset/problem/150/D/
-477	D	24	2583	http://codeforces.com/problemset/problem/477/D/
-487	D	19	2588	http://codeforces.com/problemset/problem/487/D/
-568	C	32	2589	http://codeforces.com/problemset/problem/568/C/
-484	C	24	2591	http://codeforces.com/problemset/problem/484/C/
-582	D	1	2591	http://codeforces.com/problemset/problem/582/D/
-273	E	15	2593	http://codeforces.com/problemset/problem/273/E/
-264	E	2	2596	http://codeforces.com/problemset/problem/264/E/
-406	E	8	2599	http://codeforces.com/problemset/problem/406/E/
-506	C	8	2600	http://codeforces.com/problemset/problem/506/C/
-198	C	29	2604	http://codeforces.com/problemset/problem/198/C/
-367	D	39	2604	http://codeforces.com/problemset/problem/367/D/
-494	C	29	2605	http://codeforces.com/problemset/problem/494/C/
-666	E	2	2606	http://codeforces.com/problemset/problem/666/E/
-571	D	4	2607	http://codeforces.com/problemset/problem/571/D/
-283	E	5	2607	http://codeforces.com/problemset/problem/283/E/
-372	D	22	2611	http://codeforces.com/problemset/problem/372/D/
-555	E	20	2617	http://codeforces.com/problemset/problem/555/E/
-198	D	4	2622	http://codeforces.com/problemset/problem/198/D/
-521	D	8	2623	http://codeforces.com/problemset/problem/521/D/
-187	E	1	2637	http://codeforces.com/problemset/problem/187/E/
-196	E	14	2639	http://codeforces.com/problemset/problem/196/E/
-288	E	5	2640	http://codeforces.com/problemset/problem/288/E/
-671	C	26	2642	http://codeforces.com/problemset/problem/671/C/
-582	E	9	2645	http://codeforces.com/problemset/problem/582/E/
-585	E	16	2647	http://codeforces.com/problemset/problem/585/E/
-338	E	14	2650	http://codeforces.com/problemset/problem/338/E/
-576	D	29	2651	http://codeforces.com/problemset/problem/576/D/
-559	D	25	2654	http://codeforces.com/problemset/problem/559/D/
-613	E	1	2656	http://codeforces.com/problemset/problem/613/E/
-685	C	17	2658	http://codeforces.com/problemset/problem/685/C/
-605	E	31	2661	http://codeforces.com/problemset/problem/605/E/
-698	E	13	2661	http://codeforces.com/problemset/problem/698/E/
-258	D	16	2670	http://codeforces.com/problemset/problem/258/D/
-512	E	18	2672	http://codeforces.com/problemset/problem/512/E/
-269	D	26	2673	http://codeforces.com/problemset/problem/269/D/
-343	E	6	2675	http://codeforces.com/problemset/problem/343/E/
-516	D	14	2676	http://codeforces.com/problemset/problem/516/D/
-372	E	2	2679	http://codeforces.com/problemset/problem/372/E/
-666	D	9	2683	http://codeforces.com/problemset/problem/666/D/
-497	D	8	2689	http://codeforces.com/problemset/problem/497/D/
-321	D	4	2694	http://codeforces.com/problemset/problem/321/D/
-497	E	8	2695	http://codeforces.com/problemset/problem/497/E/
-453	D	6	2699	http://codeforces.com/problemset/problem/453/D/
-587	E	14	2700	http://codeforces.com/problemset/problem/587/E/
-482	D	23	2701	http://codeforces.com/problemset/problem/482/D/
-603	E	3	2701	http://codeforces.com/problemset/problem/603/E/
-498	E	24	2703	http://codeforces.com/problemset/problem/498/E/
-464	D	21	2704	http://codeforces.com/problemset/problem/464/D/
-185	D	13	2707	http://codeforces.com/problemset/problem/185/D/
-213	E	5	2707	http://codeforces.com/problemset/problem/213/E/
-388	D	17	2709	http://codeforces.com/problemset/problem/388/D/
-685	E	21	2712	http://codeforces.com/problemset/problem/685/E/
-504	E	3	2714	http://codeforces.com/problemset/problem/504/E/
-453	E	1	2716	http://codeforces.com/problemset/problem/453/E/
-185	E	1	2717	http://codeforces.com/problemset/problem/185/E/
-442	D	20	2717	http://codeforces.com/problemset/problem/442/D/
-235	E	4	2719	http://codeforces.com/problemset/problem/235/E/
-613	D	22	2719	http://codeforces.com/problemset/problem/613/D/
-536	D	11	2720	http://codeforces.com/problemset/problem/536/D/
-356	D	8	2726	http://codeforces.com/problemset/problem/356/D/
-603	D	10	2730	http://codeforces.com/problemset/problem/603/D/
-671	D	14	2733	http://codeforces.com/problemset/problem/671/D/
-687	E	22	2736	http://codeforces.com/problemset/problem/687/E/
-696	E	11	2740	http://codeforces.com/problemset/problem/696/E/
-319	D	7	2743	http://codeforces.com/problemset/problem/319/D/
-461	E	6	2756	http://codeforces.com/problemset/problem/461/E/
-193	E	3	2758	http://codeforces.com/problemset/problem/193/E/
-480	E	4	2765	http://codeforces.com/problemset/problem/480/E/
-367	E	14	2774	http://codeforces.com/problemset/problem/367/E/
-338	D	4	2774	http://codeforces.com/problemset/problem/338/D/
-487	E	1	2782	http://codeforces.com/problemset/problem/487/E/
-455	E	7	2783	http://codeforces.com/problemset/problem/455/E/
-468	D	1	2786	http://codeforces.com/problemset/problem/468/D/
-559	E	8	2787	http://codeforces.com/problemset/problem/559/E/
-679	D	15	2788	http://codeforces.com/problemset/problem/679/D/
-573	D	9	2788	http://codeforces.com/problemset/problem/573/D/
-167	E	6	2794	http://codeforces.com/problemset/problem/167/E/
-601	E	13	2802	http://codeforces.com/problemset/problem/601/E/
-380	E	12	2807	http://codeforces.com/problemset/problem/380/E/
-700	D	5	2825	http://codeforces.com/problemset/problem/700/D/
-512	D	15	2829	http://codeforces.com/problemset/problem/512/D/
-256	D	4	2835	http://codeforces.com/problemset/problem/256/D/
-590	E	1	2837	http://codeforces.com/problemset/problem/590/E/
-576	E	1	2850	http://codeforces.com/problemset/problem/576/E/
-297	E	3	2853	http://codeforces.com/problemset/problem/297/E/
-434	D	1	2853	http://codeforces.com/problemset/problem/434/D/
-251	D	6	2859	http://codeforces.com/problemset/problem/251/D/
-238	E	3	2865	http://codeforces.com/problemset/problem/238/E/
-196	D	4	2872	http://codeforces.com/problemset/problem/196/D/
-698	F	9	2876	http://codeforces.com/problemset/problem/698/F/
-217	D	4	2886	http://codeforces.com/problemset/problem/217/D/
-167	D	2	2890	http://codeforces.com/problemset/problem/167/D/
-348	E	3	2891	http://codeforces.com/problemset/problem/348/E/
-587	D	1	2894	http://codeforces.com/problemset/problem/587/D/
-650	E	8	2895	http://codeforces.com/problemset/problem/650/E/
-679	E	3	2902	http://codeforces.com/problemset/problem/679/E/
-536	E	4	2918	http://codeforces.com/problemset/problem/536/E/
-377	E	4	2923	http://codeforces.com/problemset/problem/377/E/
-238	D	1	2930	http://codeforces.com/problemset/problem/238/D/
-414	E	1	2962	http://codeforces.com/problemset/problem/414/E/
-204	E	3	2967	http://codeforces.com/problemset/problem/204/E/
-277	D	4	3003	http://codeforces.com/problemset/problem/277/D/
-243	D	3	3015	http://codeforces.com/problemset/problem/243/D/
-193	D	2	3099	http://codeforces.com/problemset/problem/193/D/
-354	D	1	3102	http://codeforces.com/problemset/problem/354/D/
-516	E	1	3102	http://codeforces.com/problemset/problem/516/E/
-156	E	2	3148	http://codeforces.com/problemset/problem/156/E/
-663	D	2	3205	http://codeforces.com/problemset/problem/663/D/
-494	E	2	3255	http://codeforces.com/problemset/problem/494/E/
-521	E	2	3291	http://codeforces.com/problemset/problem/521/E/
-568	E	1	3481	http://codeforces.com/problemset/problem/568/E/
-235	D	1	3481	http://codeforces.com/problemset/problem/235/D/
-506	E	1	3481	http://codeforces.com/problemset/problem/506/E/
-232	D	1	3580	http://codeforces.com/problemset/problem/232/D/
-442	E	1	3580	http://codeforces.com/problemset/problem/442/E/
-145	D	1	3580	http://codeforces.com/problemset/problem/145/D/
+480	A	728	1982	<a href="http://codeforces.com/problemset/problem/480/A/">480A</a>
+516	A	1042	1991	<a href="http://codeforces.com/problemset/problem/516/A/">516A</a>
+482	A	807	1994	<a href="http://codeforces.com/problemset/problem/482/A/">482A</a>
+468	A	783	2011	<a href="http://codeforces.com/problemset/problem/468/A/">468A</a>
+555	A	992	2011	<a href="http://codeforces.com/problemset/problem/555/A/">555A</a>
+576	A	912	2012	<a href="http://codeforces.com/problemset/problem/576/A/">576A</a>
+559	A	985	2016	<a href="http://codeforces.com/problemset/problem/559/A/">559A</a>
+497	A	716	2027	<a href="http://codeforces.com/problemset/problem/497/A/">497A</a>
+553	A	711	2030	<a href="http://codeforces.com/problemset/problem/553/A/">553A</a>
+573	A	1013	2032	<a href="http://codeforces.com/problemset/problem/573/A/">573A</a>
+461	A	960	2032	<a href="http://codeforces.com/problemset/problem/461/A/">461A</a>
+480	B	490	2040	<a href="http://codeforces.com/problemset/problem/480/B/">480B</a>
+568	A	752	2042	<a href="http://codeforces.com/problemset/problem/568/A/">568A</a>
+484	A	622	2043	<a href="http://codeforces.com/problemset/problem/484/A/">484A</a>
+477	A	705	2047	<a href="http://codeforces.com/problemset/problem/477/A/">477A</a>
+521	A	568	2048	<a href="http://codeforces.com/problemset/problem/521/A/">521A</a>
+367	A	595	2049	<a href="http://codeforces.com/problemset/problem/367/A/">367A</a>
+528	A	805	2051	<a href="http://codeforces.com/problemset/problem/528/A/">528A</a>
+288	A	573	2051	<a href="http://codeforces.com/problemset/problem/288/A/">288A</a>
+333	A	507	2054	<a href="http://codeforces.com/problemset/problem/333/A/">333A</a>
+494	A	658	2054	<a href="http://codeforces.com/problemset/problem/494/A/">494A</a>
+388	A	754	2055	<a href="http://codeforces.com/problemset/problem/388/A/">388A</a>
+286	A	480	2056	<a href="http://codeforces.com/problemset/problem/286/A/">286A</a>
+274	A	458	2056	<a href="http://codeforces.com/problemset/problem/274/A/">274A</a>
+512	A	801	2057	<a href="http://codeforces.com/problemset/problem/512/A/">512A</a>
+251	A	450	2057	<a href="http://codeforces.com/problemset/problem/251/A/">251A</a>
+536	A	457	2062	<a href="http://codeforces.com/problemset/problem/536/A/">536A</a>
+403	A	525	2063	<a href="http://codeforces.com/problemset/problem/403/A/">403A</a>
+383	A	604	2066	<a href="http://codeforces.com/problemset/problem/383/A/">383A</a>
+498	A	555	2066	<a href="http://codeforces.com/problemset/problem/498/A/">498A</a>
+449	A	368	2067	<a href="http://codeforces.com/problemset/problem/449/A/">449A</a>
+283	A	404	2068	<a href="http://codeforces.com/problemset/problem/283/A/">283A</a>
+573	B	828	2070	<a href="http://codeforces.com/problemset/problem/573/B/">573B</a>
+145	A	330	2070	<a href="http://codeforces.com/problemset/problem/145/A/">145A</a>
+354	A	492	2072	<a href="http://codeforces.com/problemset/problem/354/A/">354A</a>
+273	A	495	2073	<a href="http://codeforces.com/problemset/problem/273/A/">273A</a>
+329	A	472	2073	<a href="http://codeforces.com/problemset/problem/329/A/">329A</a>
+406	A	516	2073	<a href="http://codeforces.com/problemset/problem/406/A/">406A</a>
+277	A	592	2075	<a href="http://codeforces.com/problemset/problem/277/A/">277A</a>
+154	A	358	2076	<a href="http://codeforces.com/problemset/problem/154/A/">154A</a>
+356	A	459	2076	<a href="http://codeforces.com/problemset/problem/356/A/">356A</a>
+455	A	766	2076	<a href="http://codeforces.com/problemset/problem/455/A/">455A</a>
+311	A	443	2077	<a href="http://codeforces.com/problemset/problem/311/A/">311A</a>
+150	A	384	2078	<a href="http://codeforces.com/problemset/problem/150/A/">150A</a>
+288	B	536	2078	<a href="http://codeforces.com/problemset/problem/288/B/">288B</a>
+414	A	663	2080	<a href="http://codeforces.com/problemset/problem/414/A/">414A</a>
+364	A	440	2080	<a href="http://codeforces.com/problemset/problem/364/A/">364A</a>
+414	B	688	2081	<a href="http://codeforces.com/problemset/problem/414/B/">414B</a>
+295	A	549	2081	<a href="http://codeforces.com/problemset/problem/295/A/">295A</a>
+235	A	313	2082	<a href="http://codeforces.com/problemset/problem/235/A/">235A</a>
+226	A	387	2083	<a href="http://codeforces.com/problemset/problem/226/A/">226A</a>
+348	A	450	2083	<a href="http://codeforces.com/problemset/problem/348/A/">348A</a>
+453	A	637	2084	<a href="http://codeforces.com/problemset/problem/453/A/">453A</a>
+487	A	467	2085	<a href="http://codeforces.com/problemset/problem/487/A/">487A</a>
+429	A	645	2086	<a href="http://codeforces.com/problemset/problem/429/A/">429A</a>
+338	A	318	2087	<a href="http://codeforces.com/problemset/problem/338/A/">338A</a>
+329	B	449	2089	<a href="http://codeforces.com/problemset/problem/329/B/">329B</a>
+346	A	494	2089	<a href="http://codeforces.com/problemset/problem/346/A/">346A</a>
+343	A	503	2090	<a href="http://codeforces.com/problemset/problem/343/A/">343A</a>
+150	B	378	2091	<a href="http://codeforces.com/problemset/problem/150/B/">150B</a>
+264	A	518	2092	<a href="http://codeforces.com/problemset/problem/264/A/">264A</a>
+341	A	443	2093	<a href="http://codeforces.com/problemset/problem/341/A/">341A</a>
+351	A	304	2093	<a href="http://codeforces.com/problemset/problem/351/A/">351A</a>
+504	A	513	2093	<a href="http://codeforces.com/problemset/problem/504/A/">504A</a>
+261	A	409	2094	<a href="http://codeforces.com/problemset/problem/261/A/">261A</a>
+343	B	480	2094	<a href="http://codeforces.com/problemset/problem/343/B/">343B</a>
+559	B	588	2094	<a href="http://codeforces.com/problemset/problem/559/B/">559B</a>
+217	A	331	2095	<a href="http://codeforces.com/problemset/problem/217/A/">217A</a>
+156	A	242	2097	<a href="http://codeforces.com/problemset/problem/156/A/">156A</a>
+438	A	651	2097	<a href="http://codeforces.com/problemset/problem/438/A/">438A</a>
+341	B	492	2098	<a href="http://codeforces.com/problemset/problem/341/B/">341B</a>
+482	B	462	2099	<a href="http://codeforces.com/problemset/problem/482/B/">482B</a>
+154	B	334	2101	<a href="http://codeforces.com/problemset/problem/154/B/">154B</a>
+229	A	279	2102	<a href="http://codeforces.com/problemset/problem/229/A/">229A</a>
+167	A	364	2102	<a href="http://codeforces.com/problemset/problem/167/A/">167A</a>
+220	A	388	2103	<a href="http://codeforces.com/problemset/problem/220/A/">220A</a>
+258	A	478	2103	<a href="http://codeforces.com/problemset/problem/258/A/">258A</a>
+425	A	505	2103	<a href="http://codeforces.com/problemset/problem/425/A/">425A</a>
+314	A	410	2104	<a href="http://codeforces.com/problemset/problem/314/A/">314A</a>
+477	B	467	2108	<a href="http://codeforces.com/problemset/problem/477/B/">477B</a>
+380	A	478	2108	<a href="http://codeforces.com/problemset/problem/380/A/">380A</a>
+547	B	582	2108	<a href="http://codeforces.com/problemset/problem/547/B/">547B</a>
+480	C	387	2109	<a href="http://codeforces.com/problemset/problem/480/C/">480C</a>
+295	B	460	2110	<a href="http://codeforces.com/problemset/problem/295/B/">295B</a>
+297	A	396	2110	<a href="http://codeforces.com/problemset/problem/297/A/">297A</a>
+283	B	400	2110	<a href="http://codeforces.com/problemset/problem/283/B/">283B</a>
+317	A	432	2111	<a href="http://codeforces.com/problemset/problem/317/A/">317A</a>
+446	A	426	2112	<a href="http://codeforces.com/problemset/problem/446/A/">446A</a>
+333	B	363	2112	<a href="http://codeforces.com/problemset/problem/333/B/">333B</a>
+273	B	389	2112	<a href="http://codeforces.com/problemset/problem/273/B/">273B</a>
+377	A	460	2113	<a href="http://codeforces.com/problemset/problem/377/A/">377A</a>
+568	B	565	2113	<a href="http://codeforces.com/problemset/problem/568/B/">568B</a>
+372	A	490	2113	<a href="http://codeforces.com/problemset/problem/372/A/">372A</a>
+698	A	556	2113	<a href="http://codeforces.com/problemset/problem/698/A/">698A</a>
+288	C	436	2115	<a href="http://codeforces.com/problemset/problem/288/C/">288C</a>
+444	A	403	2116	<a href="http://codeforces.com/problemset/problem/444/A/">444A</a>
+429	B	491	2116	<a href="http://codeforces.com/problemset/problem/429/B/">429B</a>
+232	A	258	2117	<a href="http://codeforces.com/problemset/problem/232/A/">232A</a>
+406	B	440	2119	<a href="http://codeforces.com/problemset/problem/406/B/">406B</a>
+543	A	459	2119	<a href="http://codeforces.com/problemset/problem/543/A/">543A</a>
+269	A	465	2119	<a href="http://codeforces.com/problemset/problem/269/A/">269A</a>
+464	A	551	2120	<a href="http://codeforces.com/problemset/problem/464/A/">464A</a>
+145	B	168	2121	<a href="http://codeforces.com/problemset/problem/145/B/">145B</a>
+187	A	279	2121	<a href="http://codeforces.com/problemset/problem/187/A/">187A</a>
+687	A	533	2122	<a href="http://codeforces.com/problemset/problem/687/A/">687A</a>
+407	A	335	2122	<a href="http://codeforces.com/problemset/problem/407/A/">407A</a>
+142	A	331	2123	<a href="http://codeforces.com/problemset/problem/142/A/">142A</a>
+407	B	388	2124	<a href="http://codeforces.com/problemset/problem/407/B/">407B</a>
+303	A	386	2124	<a href="http://codeforces.com/problemset/problem/303/A/">303A</a>
+196	A	365	2124	<a href="http://codeforces.com/problemset/problem/196/A/">196A</a>
+360	A	289	2126	<a href="http://codeforces.com/problemset/problem/360/A/">360A</a>
+528	B	597	2126	<a href="http://codeforces.com/problemset/problem/528/B/">528B</a>
+256	A	272	2126	<a href="http://codeforces.com/problemset/problem/256/A/">256A</a>
+319	A	415	2126	<a href="http://codeforces.com/problemset/problem/319/A/">319A</a>
+297	B	445	2126	<a href="http://codeforces.com/problemset/problem/297/B/">297B</a>
+229	B	244	2128	<a href="http://codeforces.com/problemset/problem/229/B/">229B</a>
+375	A	384	2128	<a href="http://codeforces.com/problemset/problem/375/A/">375A</a>
+185	A	336	2128	<a href="http://codeforces.com/problemset/problem/185/A/">185A</a>
+213	A	195	2129	<a href="http://codeforces.com/problemset/problem/213/A/">213A</a>
+553	B	415	2129	<a href="http://codeforces.com/problemset/problem/553/B/">553B</a>
+204	B	263	2130	<a href="http://codeforces.com/problemset/problem/204/B/">204B</a>
+685	A	441	2130	<a href="http://codeforces.com/problemset/problem/685/A/">685A</a>
+142	B	247	2131	<a href="http://codeforces.com/problemset/problem/142/B/">142B</a>
+243	A	279	2131	<a href="http://codeforces.com/problemset/problem/243/A/">243A</a>
+698	B	496	2131	<a href="http://codeforces.com/problemset/problem/698/B/">698B</a>
+264	B	426	2133	<a href="http://codeforces.com/problemset/problem/264/B/">264B</a>
+696	A	456	2133	<a href="http://codeforces.com/problemset/problem/696/A/">696A</a>
+280	D	4	2134	<a href="http://codeforces.com/problemset/problem/280/D/">280D</a>
+321	A	269	2135	<a href="http://codeforces.com/problemset/problem/321/A/">321A</a>
+191	A	273	2135	<a href="http://codeforces.com/problemset/problem/191/A/">191A</a>
+679	A	529	2136	<a href="http://codeforces.com/problemset/problem/679/A/">679A</a>
+274	B	310	2139	<a href="http://codeforces.com/problemset/problem/274/B/">274B</a>
+204	A	252	2139	<a href="http://codeforces.com/problemset/problem/204/A/">204A</a>
+238	A	314	2139	<a href="http://codeforces.com/problemset/problem/238/A/">238A</a>
+434	A	232	2141	<a href="http://codeforces.com/problemset/problem/434/A/">434A</a>
+156	B	284	2142	<a href="http://codeforces.com/problemset/problem/156/B/">156B</a>
+301	A	319	2143	<a href="http://codeforces.com/problemset/problem/301/A/">301A</a>
+251	B	212	2143	<a href="http://codeforces.com/problemset/problem/251/B/">251B</a>
+201	A	210	2146	<a href="http://codeforces.com/problemset/problem/201/A/">201A</a>
+555	B	528	2147	<a href="http://codeforces.com/problemset/problem/555/B/">555B</a>
+696	B	438	2148	<a href="http://codeforces.com/problemset/problem/696/B/">696B</a>
+367	B	282	2148	<a href="http://codeforces.com/problemset/problem/367/B/">367B</a>
+516	B	357	2149	<a href="http://codeforces.com/problemset/problem/516/B/">516B</a>
+249	A	75	2149	<a href="http://codeforces.com/problemset/problem/249/A/">249A</a>
+497	B	454	2150	<a href="http://codeforces.com/problemset/problem/497/B/">497B</a>
+512	B	509	2154	<a href="http://codeforces.com/problemset/problem/512/B/">512B</a>
+167	B	199	2156	<a href="http://codeforces.com/problemset/problem/167/B/">167B</a>
+191	B	223	2156	<a href="http://codeforces.com/problemset/problem/191/B/">191B</a>
+442	B	284	2156	<a href="http://codeforces.com/problemset/problem/442/B/">442B</a>
+256	B	244	2157	<a href="http://codeforces.com/problemset/problem/256/B/">256B</a>
+700	A	283	2158	<a href="http://codeforces.com/problemset/problem/700/A/">700A</a>
+269	B	388	2158	<a href="http://codeforces.com/problemset/problem/269/B/">269B</a>
+280	B	266	2160	<a href="http://codeforces.com/problemset/problem/280/B/">280B</a>
+193	A	196	2161	<a href="http://codeforces.com/problemset/problem/193/A/">193A</a>
+321	B	219	2161	<a href="http://codeforces.com/problemset/problem/321/B/">321B</a>
+351	B	324	2161	<a href="http://codeforces.com/problemset/problem/351/B/">351B</a>
+442	A	344	2161	<a href="http://codeforces.com/problemset/problem/442/A/">442A</a>
+536	B	308	2162	<a href="http://codeforces.com/problemset/problem/536/B/">536B</a>
+356	B	276	2162	<a href="http://codeforces.com/problemset/problem/356/B/">356B</a>
+449	B	209	2163	<a href="http://codeforces.com/problemset/problem/449/B/">449B</a>
+303	B	244	2164	<a href="http://codeforces.com/problemset/problem/303/B/">303B</a>
+301	B	133	2164	<a href="http://codeforces.com/problemset/problem/301/B/">301B</a>
+403	B	236	2165	<a href="http://codeforces.com/problemset/problem/403/B/">403B</a>
+198	A	213	2165	<a href="http://codeforces.com/problemset/problem/198/A/">198A</a>
+198	B	232	2166	<a href="http://codeforces.com/problemset/problem/198/B/">198B</a>
+650	A	478	2167	<a href="http://codeforces.com/problemset/problem/650/A/">650A</a>
+468	B	263	2168	<a href="http://codeforces.com/problemset/problem/468/B/">468B</a>
+663	A	183	2170	<a href="http://codeforces.com/problemset/problem/663/A/">663A</a>
+187	B	166	2172	<a href="http://codeforces.com/problemset/problem/187/B/">187B</a>
+223	A	244	2175	<a href="http://codeforces.com/problemset/problem/223/A/">223A</a>
+375	B	314	2176	<a href="http://codeforces.com/problemset/problem/375/B/">375B</a>
+685	B	362	2178	<a href="http://codeforces.com/problemset/problem/685/B/">685B</a>
+484	B	266	2179	<a href="http://codeforces.com/problemset/problem/484/B/">484B</a>
+671	A	313	2181	<a href="http://codeforces.com/problemset/problem/671/A/">671A</a>
+687	C	414	2182	<a href="http://codeforces.com/problemset/problem/687/C/">687C</a>
+229	C	194	2182	<a href="http://codeforces.com/problemset/problem/229/C/">229C</a>
+687	B	354	2182	<a href="http://codeforces.com/problemset/problem/687/B/">687B</a>
+388	B	381	2184	<a href="http://codeforces.com/problemset/problem/388/B/">388B</a>
+663	B	97	2184	<a href="http://codeforces.com/problemset/problem/663/B/">663B</a>
+220	B	213	2185	<a href="http://codeforces.com/problemset/problem/220/B/">220B</a>
+455	B	374	2185	<a href="http://codeforces.com/problemset/problem/455/B/">455B</a>
+605	A	389	2186	<a href="http://codeforces.com/problemset/problem/605/A/">605A</a>
+372	B	367	2190	<a href="http://codeforces.com/problemset/problem/372/B/">372B</a>
+226	B	222	2191	<a href="http://codeforces.com/problemset/problem/226/B/">226B</a>
+666	A	280	2192	<a href="http://codeforces.com/problemset/problem/666/A/">666A</a>
+587	A	412	2192	<a href="http://codeforces.com/problemset/problem/587/A/">587A</a>
+286	C	122	2193	<a href="http://codeforces.com/problemset/problem/286/C/">286C</a>
+603	A	407	2194	<a href="http://codeforces.com/problemset/problem/603/A/">603A</a>
+235	B	153	2194	<a href="http://codeforces.com/problemset/problem/235/B/">235B</a>
+187	C	101	2196	<a href="http://codeforces.com/problemset/problem/187/C/">187C</a>
+446	B	342	2197	<a href="http://codeforces.com/problemset/problem/446/B/">446B</a>
+317	B	241	2197	<a href="http://codeforces.com/problemset/problem/317/B/">317B</a>
+601	A	373	2197	<a href="http://codeforces.com/problemset/problem/601/A/">601A</a>
+201	B	187	2198	<a href="http://codeforces.com/problemset/problem/201/B/">201B</a>
+213	B	136	2198	<a href="http://codeforces.com/problemset/problem/213/B/">213B</a>
+338	B	198	2199	<a href="http://codeforces.com/problemset/problem/338/B/">338B</a>
+700	B	279	2200	<a href="http://codeforces.com/problemset/problem/700/B/">700B</a>
+343	C	305	2201	<a href="http://codeforces.com/problemset/problem/343/C/">343C</a>
+461	B	408	2201	<a href="http://codeforces.com/problemset/problem/461/B/">461B</a>
+607	A	430	2201	<a href="http://codeforces.com/problemset/problem/607/A/">607A</a>
+377	B	306	2203	<a href="http://codeforces.com/problemset/problem/377/B/">377B</a>
+585	A	236	2203	<a href="http://codeforces.com/problemset/problem/585/A/">585A</a>
+319	B	266	2204	<a href="http://codeforces.com/problemset/problem/319/B/">319B</a>
+585	B	309	2204	<a href="http://codeforces.com/problemset/problem/585/B/">585B</a>
+590	A	353	2206	<a href="http://codeforces.com/problemset/problem/590/A/">590A</a>
+605	B	370	2206	<a href="http://codeforces.com/problemset/problem/605/B/">605B</a>
+438	B	381	2208	<a href="http://codeforces.com/problemset/problem/438/B/">438B</a>
+506	A	294	2208	<a href="http://codeforces.com/problemset/problem/506/A/">506A</a>
+261	B	190	2209	<a href="http://codeforces.com/problemset/problem/261/B/">261B</a>
+280	A	146	2209	<a href="http://codeforces.com/problemset/problem/280/A/">280A</a>
+383	C	297	2209	<a href="http://codeforces.com/problemset/problem/383/C/">383C</a>
+238	B	181	2209	<a href="http://codeforces.com/problemset/problem/238/B/">238B</a>
+504	B	313	2210	<a href="http://codeforces.com/problemset/problem/504/B/">504B</a>
+487	B	260	2211	<a href="http://codeforces.com/problemset/problem/487/B/">487B</a>
+453	B	320	2214	<a href="http://codeforces.com/problemset/problem/453/B/">453B</a>
+696	C	302	2214	<a href="http://codeforces.com/problemset/problem/696/C/">696C</a>
+243	B	106	2214	<a href="http://codeforces.com/problemset/problem/243/B/">243B</a>
+576	C	288	2214	<a href="http://codeforces.com/problemset/problem/576/C/">576C</a>
+547	A	156	2214	<a href="http://codeforces.com/problemset/problem/547/A/">547A</a>
+185	B	177	2216	<a href="http://codeforces.com/problemset/problem/185/B/">185B</a>
+341	C	245	2217	<a href="http://codeforces.com/problemset/problem/341/C/">341C</a>
+582	A	377	2217	<a href="http://codeforces.com/problemset/problem/582/A/">582A</a>
+613	A	289	2219	<a href="http://codeforces.com/problemset/problem/613/A/">613A</a>
+650	B	302	2219	<a href="http://codeforces.com/problemset/problem/650/B/">650B</a>
+521	B	245	2219	<a href="http://codeforces.com/problemset/problem/521/B/">521B</a>
+464	B	275	2220	<a href="http://codeforces.com/problemset/problem/464/B/">464B</a>
+232	B	179	2220	<a href="http://codeforces.com/problemset/problem/232/B/">232B</a>
+434	B	191	2220	<a href="http://codeforces.com/problemset/problem/434/B/">434B</a>
+576	B	279	2221	<a href="http://codeforces.com/problemset/problem/576/B/">576B</a>
+543	B	224	2221	<a href="http://codeforces.com/problemset/problem/543/B/">543B</a>
+354	C	127	2222	<a href="http://codeforces.com/problemset/problem/354/C/">354C</a>
+360	B	129	2223	<a href="http://codeforces.com/problemset/problem/360/B/">360B</a>
+367	C	256	2224	<a href="http://codeforces.com/problemset/problem/367/C/">367C</a>
+388	C	299	2225	<a href="http://codeforces.com/problemset/problem/388/C/">388C</a>
+333	D	121	2225	<a href="http://codeforces.com/problemset/problem/333/D/">333D</a>
+571	A	240	2228	<a href="http://codeforces.com/problemset/problem/571/A/">571A</a>
+571	B	329	2228	<a href="http://codeforces.com/problemset/problem/571/B/">571B</a>
+380	C	255	2229	<a href="http://codeforces.com/problemset/problem/380/C/">380C</a>
+156	C	172	2229	<a href="http://codeforces.com/problemset/problem/156/C/">156C</a>
+494	B	348	2229	<a href="http://codeforces.com/problemset/problem/494/B/">494B</a>
+314	B	170	2231	<a href="http://codeforces.com/problemset/problem/314/B/">314B</a>
+213	C	108	2232	<a href="http://codeforces.com/problemset/problem/213/C/">213C</a>
+314	C	174	2234	<a href="http://codeforces.com/problemset/problem/314/C/">314C</a>
+346	B	172	2234	<a href="http://codeforces.com/problemset/problem/346/B/">346B</a>
+613	B	263	2234	<a href="http://codeforces.com/problemset/problem/613/B/">613B</a>
+348	B	124	2235	<a href="http://codeforces.com/problemset/problem/348/B/">348B</a>
+582	B	349	2235	<a href="http://codeforces.com/problemset/problem/582/B/">582B</a>
+264	C	225	2239	<a href="http://codeforces.com/problemset/problem/264/C/">264C</a>
+235	C	4	2239	<a href="http://codeforces.com/problemset/problem/235/C/">235C</a>
+671	B	255	2240	<a href="http://codeforces.com/problemset/problem/671/B/">671B</a>
+603	B	324	2241	<a href="http://codeforces.com/problemset/problem/603/B/">603B</a>
+258	B	223	2241	<a href="http://codeforces.com/problemset/problem/258/B/">258B</a>
+191	C	161	2243	<a href="http://codeforces.com/problemset/problem/191/C/">191C</a>
+498	C	268	2243	<a href="http://codeforces.com/problemset/problem/498/C/">498C</a>
+607	B	341	2244	<a href="http://codeforces.com/problemset/problem/607/B/">607B</a>
+356	C	122	2246	<a href="http://codeforces.com/problemset/problem/356/C/">356C</a>
+204	C	124	2248	<a href="http://codeforces.com/problemset/problem/204/C/">204C</a>
+229	D	117	2249	<a href="http://codeforces.com/problemset/problem/229/D/">229D</a>
+223	C	199	2250	<a href="http://codeforces.com/problemset/problem/223/C/">223C</a>
+196	B	119	2251	<a href="http://codeforces.com/problemset/problem/196/B/">196B</a>
+145	C	86	2252	<a href="http://codeforces.com/problemset/problem/145/C/">145C</a>
+217	B	92	2253	<a href="http://codeforces.com/problemset/problem/217/B/">217B</a>
+559	C	321	2253	<a href="http://codeforces.com/problemset/problem/559/C/">559C</a>
+311	B	35	2263	<a href="http://codeforces.com/problemset/problem/311/B/">311B</a>
+666	B	201	2264	<a href="http://codeforces.com/problemset/problem/666/B/">666B</a>
+364	B	124	2266	<a href="http://codeforces.com/problemset/problem/364/B/">364B</a>
+477	C	183	2268	<a href="http://codeforces.com/problemset/problem/477/C/">477C</a>
+249	B	34	2268	<a href="http://codeforces.com/problemset/problem/249/B/">249B</a>
+193	B	115	2268	<a href="http://codeforces.com/problemset/problem/193/B/">193B</a>
+277	B	92	2268	<a href="http://codeforces.com/problemset/problem/277/B/">277B</a>
+251	C	125	2269	<a href="http://codeforces.com/problemset/problem/251/C/">251C</a>
+286	B	108	2270	<a href="http://codeforces.com/problemset/problem/286/B/">286B</a>
+273	C	77	2271	<a href="http://codeforces.com/problemset/problem/273/C/">273C</a>
+455	C	244	2272	<a href="http://codeforces.com/problemset/problem/455/C/">455C</a>
+338	C	72	2274	<a href="http://codeforces.com/problemset/problem/338/C/">338C</a>
+587	B	229	2275	<a href="http://codeforces.com/problemset/problem/587/B/">587B</a>
+223	B	163	2275	<a href="http://codeforces.com/problemset/problem/223/B/">223B</a>
+201	C	102	2276	<a href="http://codeforces.com/problemset/problem/201/C/">201C</a>
+261	C	152	2278	<a href="http://codeforces.com/problemset/problem/261/C/">261C</a>
+601	B	249	2279	<a href="http://codeforces.com/problemset/problem/601/B/">601B</a>
+590	B	198	2279	<a href="http://codeforces.com/problemset/problem/590/B/">590B</a>
+429	D	116	2280	<a href="http://codeforces.com/problemset/problem/429/D/">429D</a>
+295	C	168	2282	<a href="http://codeforces.com/problemset/problem/295/C/">295C</a>
+321	C	146	2283	<a href="http://codeforces.com/problemset/problem/321/C/">321C</a>
+414	C	249	2284	<a href="http://codeforces.com/problemset/problem/414/C/">414C</a>
+425	B	122	2286	<a href="http://codeforces.com/problemset/problem/425/B/">425B</a>
+380	B	77	2286	<a href="http://codeforces.com/problemset/problem/380/B/">380B</a>
+351	E	146	2286	<a href="http://codeforces.com/problemset/problem/351/E/">351E</a>
+283	C	120	2286	<a href="http://codeforces.com/problemset/problem/283/C/">283C</a>
+663	C	126	2288	<a href="http://codeforces.com/problemset/problem/663/C/">663C</a>
+403	C	130	2289	<a href="http://codeforces.com/problemset/problem/403/C/">403C</a>
+487	C	112	2289	<a href="http://codeforces.com/problemset/problem/487/C/">487C</a>
+406	C	104	2290	<a href="http://codeforces.com/problemset/problem/406/C/">406C</a>
+406	D	116	2291	<a href="http://codeforces.com/problemset/problem/406/D/">406D</a>
+497	C	235	2291	<a href="http://codeforces.com/problemset/problem/497/C/">497C</a>
+553	C	222	2294	<a href="http://codeforces.com/problemset/problem/553/C/">553C</a>
+679	B	200	2295	<a href="http://codeforces.com/problemset/problem/679/B/">679B</a>
+249	D	6	2295	<a href="http://codeforces.com/problemset/problem/249/D/">249D</a>
+258	C	145	2298	<a href="http://codeforces.com/problemset/problem/258/C/">258C</a>
+256	C	87	2299	<a href="http://codeforces.com/problemset/problem/256/C/">256C</a>
+506	B	199	2301	<a href="http://codeforces.com/problemset/problem/506/B/">506B</a>
+555	C	261	2301	<a href="http://codeforces.com/problemset/problem/555/C/">555C</a>
+425	D	97	2302	<a href="http://codeforces.com/problemset/problem/425/D/">425D</a>
+274	D	85	2304	<a href="http://codeforces.com/problemset/problem/274/D/">274D</a>
+301	D	89	2306	<a href="http://codeforces.com/problemset/problem/301/D/">301D</a>
+587	C	192	2306	<a href="http://codeforces.com/problemset/problem/587/C/">587C</a>
+383	D	108	2307	<a href="http://codeforces.com/problemset/problem/383/D/">383D</a>
+383	B	41	2309	<a href="http://codeforces.com/problemset/problem/383/B/">383B</a>
+142	C	78	2309	<a href="http://codeforces.com/problemset/problem/142/C/">142C</a>
+444	B	94	2313	<a href="http://codeforces.com/problemset/problem/444/B/">444B</a>
+464	C	235	2314	<a href="http://codeforces.com/problemset/problem/464/C/">464C</a>
+364	C	75	2315	<a href="http://codeforces.com/problemset/problem/364/C/">364C</a>
+650	C	216	2316	<a href="http://codeforces.com/problemset/problem/650/C/">650C</a>
+150	C	82	2316	<a href="http://codeforces.com/problemset/problem/150/C/">150C</a>
+226	D	94	2316	<a href="http://codeforces.com/problemset/problem/226/D/">226D</a>
+521	C	172	2316	<a href="http://codeforces.com/problemset/problem/521/C/">521C</a>
+354	E	137	2317	<a href="http://codeforces.com/problemset/problem/354/E/">354E</a>
+590	C	150	2317	<a href="http://codeforces.com/problemset/problem/590/C/">590C</a>
+516	C	213	2320	<a href="http://codeforces.com/problemset/problem/516/C/">516C</a>
+547	C	189	2320	<a href="http://codeforces.com/problemset/problem/547/C/">547C</a>
+348	D	24	2320	<a href="http://codeforces.com/problemset/problem/348/D/">348D</a>
+438	D	101	2324	<a href="http://codeforces.com/problemset/problem/438/D/">438D</a>
+377	C	112	2325	<a href="http://codeforces.com/problemset/problem/377/C/">377C</a>
+238	C	91	2329	<a href="http://codeforces.com/problemset/problem/238/C/">238C</a>
+372	C	157	2332	<a href="http://codeforces.com/problemset/problem/372/C/">372C</a>
+297	C	45	2334	<a href="http://codeforces.com/problemset/problem/297/C/">297C</a>
+269	C	134	2335	<a href="http://codeforces.com/problemset/problem/269/C/">269C</a>
+603	C	211	2338	<a href="http://codeforces.com/problemset/problem/603/C/">603C</a>
+343	D	145	2340	<a href="http://codeforces.com/problemset/problem/343/D/">343D</a>
+319	C	136	2340	<a href="http://codeforces.com/problemset/problem/319/C/">319C</a>
+277	E	65	2340	<a href="http://codeforces.com/problemset/problem/277/E/">277E</a>
+543	D	73	2342	<a href="http://codeforces.com/problemset/problem/543/D/">543D</a>
+243	E	1	2343	<a href="http://codeforces.com/problemset/problem/243/E/">243E</a>
+594	C	111	2343	<a href="http://codeforces.com/problemset/problem/594/C/">594C</a>
+154	C	47	2344	<a href="http://codeforces.com/problemset/problem/154/C/">154C</a>
+220	C	105	2346	<a href="http://codeforces.com/problemset/problem/220/C/">220C</a>
+585	D	129	2347	<a href="http://codeforces.com/problemset/problem/585/D/">585D</a>
+317	D	94	2347	<a href="http://codeforces.com/problemset/problem/317/D/">317D</a>
+461	C	211	2347	<a href="http://codeforces.com/problemset/problem/461/C/">461C</a>
+449	C	66	2348	<a href="http://codeforces.com/problemset/problem/449/C/">449C</a>
+196	C	62	2348	<a href="http://codeforces.com/problemset/problem/196/C/">196C</a>
+280	C	91	2349	<a href="http://codeforces.com/problemset/problem/280/C/">280C</a>
+573	C	144	2352	<a href="http://codeforces.com/problemset/problem/573/C/">573C</a>
+301	C	32	2353	<a href="http://codeforces.com/problemset/problem/301/C/">301C</a>
+273	D	38	2356	<a href="http://codeforces.com/problemset/problem/273/D/">273D</a>
+346	C	83	2357	<a href="http://codeforces.com/problemset/problem/346/C/">346C</a>
+444	C	59	2363	<a href="http://codeforces.com/problemset/problem/444/C/">444C</a>
+249	E	6	2371	<a href="http://codeforces.com/problemset/problem/249/E/">249E</a>
+528	E	3	2371	<a href="http://codeforces.com/problemset/problem/528/E/">528E</a>
+585	C	77	2372	<a href="http://codeforces.com/problemset/problem/585/C/">585C</a>
+453	C	141	2373	<a href="http://codeforces.com/problemset/problem/453/C/">453C</a>
+594	B	34	2373	<a href="http://codeforces.com/problemset/problem/594/B/">594B</a>
+341	E	1	2376	<a href="http://codeforces.com/problemset/problem/341/E/">341E</a>
+455	D	20	2377	<a href="http://codeforces.com/problemset/problem/455/D/">455D</a>
+329	C	54	2377	<a href="http://codeforces.com/problemset/problem/329/C/">329C</a>
+429	C	75	2379	<a href="http://codeforces.com/problemset/problem/429/C/">429C</a>
+329	D	37	2379	<a href="http://codeforces.com/problemset/problem/329/D/">329D</a>
+213	D	40	2379	<a href="http://codeforces.com/problemset/problem/213/D/">213D</a>
+145	E	37	2380	<a href="http://codeforces.com/problemset/problem/145/E/">145E</a>
+480	D	25	2383	<a href="http://codeforces.com/problemset/problem/480/D/">480D</a>
+605	C	106	2383	<a href="http://codeforces.com/problemset/problem/605/C/">605C</a>
+191	E	55	2386	<a href="http://codeforces.com/problemset/problem/191/E/">191E</a>
+484	D	82	2386	<a href="http://codeforces.com/problemset/problem/484/D/">484D</a>
+679	C	127	2390	<a href="http://codeforces.com/problemset/problem/679/C/">679C</a>
+167	C	75	2392	<a href="http://codeforces.com/problemset/problem/167/C/">167C</a>
+553	D	131	2399	<a href="http://codeforces.com/problemset/problem/553/D/">553D</a>
+201	D	11	2404	<a href="http://codeforces.com/problemset/problem/201/D/">201D</a>
+512	C	143	2404	<a href="http://codeforces.com/problemset/problem/512/C/">512C</a>
+506	D	113	2404	<a href="http://codeforces.com/problemset/problem/506/D/">506D</a>
+154	D	46	2405	<a href="http://codeforces.com/problemset/problem/154/D/">154D</a>
+498	B	76	2406	<a href="http://codeforces.com/problemset/problem/498/B/">498B</a>
+414	D	107	2406	<a href="http://codeforces.com/problemset/problem/414/D/">414D</a>
+295	E	35	2407	<a href="http://codeforces.com/problemset/problem/295/E/">295E</a>
+311	E	2	2407	<a href="http://codeforces.com/problemset/problem/311/E/">311E</a>
+314	E	4	2407	<a href="http://codeforces.com/problemset/problem/314/E/">314E</a>
+449	D	80	2408	<a href="http://codeforces.com/problemset/problem/449/D/">449D</a>
+601	C	154	2411	<a href="http://codeforces.com/problemset/problem/601/C/">601C</a>
+364	E	1	2412	<a href="http://codeforces.com/problemset/problem/364/E/">364E</a>
+288	D	49	2412	<a href="http://codeforces.com/problemset/problem/288/D/">288D</a>
+444	D	39	2415	<a href="http://codeforces.com/problemset/problem/444/D/">444D</a>
+283	D	30	2416	<a href="http://codeforces.com/problemset/problem/283/D/">283D</a>
+468	C	56	2417	<a href="http://codeforces.com/problemset/problem/468/C/">468C</a>
+229	E	12	2417	<a href="http://codeforces.com/problemset/problem/229/E/">229E</a>
+311	D	18	2419	<a href="http://codeforces.com/problemset/problem/311/D/">311D</a>
+249	C	9	2420	<a href="http://codeforces.com/problemset/problem/249/C/">249C</a>
+425	C	105	2421	<a href="http://codeforces.com/problemset/problem/425/C/">425C</a>
+258	E	38	2421	<a href="http://codeforces.com/problemset/problem/258/E/">258E</a>
+311	C	9	2422	<a href="http://codeforces.com/problemset/problem/311/C/">311C</a>
+226	C	22	2423	<a href="http://codeforces.com/problemset/problem/226/C/">226C</a>
+256	E	38	2424	<a href="http://codeforces.com/problemset/problem/256/E/">256E</a>
+341	D	30	2426	<a href="http://codeforces.com/problemset/problem/341/D/">341D</a>
+333	E	31	2430	<a href="http://codeforces.com/problemset/problem/333/E/">333E</a>
+403	D	77	2431	<a href="http://codeforces.com/problemset/problem/403/D/">403D</a>
+317	C	30	2433	<a href="http://codeforces.com/problemset/problem/317/C/">317C</a>
+351	C	33	2433	<a href="http://codeforces.com/problemset/problem/351/C/">351C</a>
+446	C	64	2434	<a href="http://codeforces.com/problemset/problem/446/C/">446C</a>
+348	C	23	2436	<a href="http://codeforces.com/problemset/problem/348/C/">348C</a>
+698	C	97	2437	<a href="http://codeforces.com/problemset/problem/698/C/">698C</a>
+191	D	6	2439	<a href="http://codeforces.com/problemset/problem/191/D/">191D</a>
+193	C	43	2441	<a href="http://codeforces.com/problemset/problem/193/C/">193C</a>
+613	C	78	2442	<a href="http://codeforces.com/problemset/problem/613/C/">613C</a>
+536	C	30	2447	<a href="http://codeforces.com/problemset/problem/536/C/">536C</a>
+314	D	31	2449	<a href="http://codeforces.com/problemset/problem/314/D/">314D</a>
+582	C	101	2449	<a href="http://codeforces.com/problemset/problem/582/C/">582C</a>
+354	B	37	2452	<a href="http://codeforces.com/problemset/problem/354/B/">354B</a>
+403	E	2	2453	<a href="http://codeforces.com/problemset/problem/403/E/">403E</a>
+277	C	48	2454	<a href="http://codeforces.com/problemset/problem/277/C/">277C</a>
+217	C	12	2456	<a href="http://codeforces.com/problemset/problem/217/C/">217C</a>
+605	D	76	2456	<a href="http://codeforces.com/problemset/problem/605/D/">605D</a>
+594	D	50	2456	<a href="http://codeforces.com/problemset/problem/594/D/">594D</a>
+220	E	37	2457	<a href="http://codeforces.com/problemset/problem/220/E/">220E</a>
+360	C	34	2459	<a href="http://codeforces.com/problemset/problem/360/C/">360C</a>
+375	D	47	2459	<a href="http://codeforces.com/problemset/problem/375/D/">375D</a>
+333	C	13	2459	<a href="http://codeforces.com/problemset/problem/333/C/">333C</a>
+274	C	11	2460	<a href="http://codeforces.com/problemset/problem/274/C/">274C</a>
+700	C	46	2463	<a href="http://codeforces.com/problemset/problem/700/C/">700C</a>
+446	D	6	2465	<a href="http://codeforces.com/problemset/problem/446/D/">446D</a>
+243	C	57	2465	<a href="http://codeforces.com/problemset/problem/243/C/">243C</a>
+590	D	106	2467	<a href="http://codeforces.com/problemset/problem/590/D/">590D</a>
+321	E	13	2468	<a href="http://codeforces.com/problemset/problem/321/E/">321E</a>
+375	C	26	2471	<a href="http://codeforces.com/problemset/problem/375/C/">375C</a>
+142	D	19	2474	<a href="http://codeforces.com/problemset/problem/142/D/">142D</a>
+442	C	46	2476	<a href="http://codeforces.com/problemset/problem/442/C/">442C</a>
+295	D	45	2477	<a href="http://codeforces.com/problemset/problem/295/D/">295D</a>
+201	E	12	2479	<a href="http://codeforces.com/problemset/problem/201/E/">201E</a>
+696	D	88	2482	<a href="http://codeforces.com/problemset/problem/696/D/">696D</a>
+528	C	59	2482	<a href="http://codeforces.com/problemset/problem/528/C/">528C</a>
+264	D	22	2483	<a href="http://codeforces.com/problemset/problem/264/D/">264D</a>
+568	D	13	2483	<a href="http://codeforces.com/problemset/problem/568/D/">568D</a>
+555	D	81	2484	<a href="http://codeforces.com/problemset/problem/555/D/">555D</a>
+484	E	19	2487	<a href="http://codeforces.com/problemset/problem/484/E/">484E</a>
+573	E	2	2488	<a href="http://codeforces.com/problemset/problem/573/E/">573E</a>
+607	C	67	2488	<a href="http://codeforces.com/problemset/problem/607/C/">607C</a>
+217	E	2	2494	<a href="http://codeforces.com/problemset/problem/217/E/">217E</a>
+204	D	29	2496	<a href="http://codeforces.com/problemset/problem/204/D/">204D</a>
+543	C	61	2496	<a href="http://codeforces.com/problemset/problem/543/C/">543C</a>
+351	D	10	2502	<a href="http://codeforces.com/problemset/problem/351/D/">351D</a>
+494	D	20	2503	<a href="http://codeforces.com/problemset/problem/494/D/">494D</a>
+407	D	11	2506	<a href="http://codeforces.com/problemset/problem/407/D/">407D</a>
+687	D	71	2510	<a href="http://codeforces.com/problemset/problem/687/D/">687D</a>
+571	C	64	2512	<a href="http://codeforces.com/problemset/problem/571/C/">571C</a>
+498	D	84	2513	<a href="http://codeforces.com/problemset/problem/498/D/">498D</a>
+547	D	30	2514	<a href="http://codeforces.com/problemset/problem/547/D/">547D</a>
+434	C	22	2514	<a href="http://codeforces.com/problemset/problem/434/C/">434C</a>
+303	C	36	2515	<a href="http://codeforces.com/problemset/problem/303/C/">303C</a>
+303	D	13	2518	<a href="http://codeforces.com/problemset/problem/303/D/">303D</a>
+601	D	80	2519	<a href="http://codeforces.com/problemset/problem/601/D/">601D</a>
+187	D	6	2522	<a href="http://codeforces.com/problemset/problem/187/D/">187D</a>
+380	D	43	2524	<a href="http://codeforces.com/problemset/problem/380/D/">380D</a>
+364	D	3	2524	<a href="http://codeforces.com/problemset/problem/364/D/">364D</a>
+587	F	3	2525	<a href="http://codeforces.com/problemset/problem/587/F/">587F</a>
+449	E	4	2528	<a href="http://codeforces.com/problemset/problem/449/E/">449E</a>
+286	D	13	2529	<a href="http://codeforces.com/problemset/problem/286/D/">286D</a>
+377	D	49	2530	<a href="http://codeforces.com/problemset/problem/377/D/">377D</a>
+666	C	53	2531	<a href="http://codeforces.com/problemset/problem/666/C/">666C</a>
+438	C	43	2533	<a href="http://codeforces.com/problemset/problem/438/C/">438C</a>
+360	D	13	2533	<a href="http://codeforces.com/problemset/problem/360/D/">360D</a>
+346	D	26	2538	<a href="http://codeforces.com/problemset/problem/346/D/">346D</a>
+198	E	23	2538	<a href="http://codeforces.com/problemset/problem/198/E/">198E</a>
+383	E	19	2540	<a href="http://codeforces.com/problemset/problem/383/E/">383E</a>
+464	E	1	2541	<a href="http://codeforces.com/problemset/problem/464/E/">464E</a>
+360	E	3	2543	<a href="http://codeforces.com/problemset/problem/360/E/">360E</a>
+650	D	58	2543	<a href="http://codeforces.com/problemset/problem/650/D/">650D</a>
+528	D	56	2544	<a href="http://codeforces.com/problemset/problem/528/D/">528D</a>
+429	E	6	2545	<a href="http://codeforces.com/problemset/problem/429/E/">429E</a>
+504	C	37	2545	<a href="http://codeforces.com/problemset/problem/504/C/">504C</a>
+482	C	21	2548	<a href="http://codeforces.com/problemset/problem/482/C/">482C</a>
+444	E	15	2549	<a href="http://codeforces.com/problemset/problem/444/E/">444E</a>
+261	E	4	2550	<a href="http://codeforces.com/problemset/problem/261/E/">261E</a>
+685	D	43	2551	<a href="http://codeforces.com/problemset/problem/685/D/">685D</a>
+220	D	20	2553	<a href="http://codeforces.com/problemset/problem/220/D/">220D</a>
+301	E	3	2555	<a href="http://codeforces.com/problemset/problem/301/E/">301E</a>
+156	D	26	2557	<a href="http://codeforces.com/problemset/problem/156/D/">156D</a>
+297	D	34	2559	<a href="http://codeforces.com/problemset/problem/297/D/">297D</a>
+504	D	21	2562	<a href="http://codeforces.com/problemset/problem/504/D/">504D</a>
+407	C	41	2568	<a href="http://codeforces.com/problemset/problem/407/C/">407C</a>
+261	D	11	2569	<a href="http://codeforces.com/problemset/problem/261/D/">261D</a>
+425	E	33	2576	<a href="http://codeforces.com/problemset/problem/425/E/">425E</a>
+461	D	13	2577	<a href="http://codeforces.com/problemset/problem/461/D/">461D</a>
+607	D	48	2577	<a href="http://codeforces.com/problemset/problem/607/D/">607D</a>
+547	E	15	2578	<a href="http://codeforces.com/problemset/problem/547/E/">547E</a>
+698	D	19	2581	<a href="http://codeforces.com/problemset/problem/698/D/">698D</a>
+286	E	5	2583	<a href="http://codeforces.com/problemset/problem/286/E/">286E</a>
+663	E	20	2583	<a href="http://codeforces.com/problemset/problem/663/E/">663E</a>
+150	D	15	2583	<a href="http://codeforces.com/problemset/problem/150/D/">150D</a>
+477	D	24	2583	<a href="http://codeforces.com/problemset/problem/477/D/">477D</a>
+487	D	19	2588	<a href="http://codeforces.com/problemset/problem/487/D/">487D</a>
+568	C	32	2589	<a href="http://codeforces.com/problemset/problem/568/C/">568C</a>
+484	C	24	2591	<a href="http://codeforces.com/problemset/problem/484/C/">484C</a>
+582	D	1	2591	<a href="http://codeforces.com/problemset/problem/582/D/">582D</a>
+273	E	15	2593	<a href="http://codeforces.com/problemset/problem/273/E/">273E</a>
+264	E	2	2596	<a href="http://codeforces.com/problemset/problem/264/E/">264E</a>
+406	E	8	2599	<a href="http://codeforces.com/problemset/problem/406/E/">406E</a>
+506	C	8	2600	<a href="http://codeforces.com/problemset/problem/506/C/">506C</a>
+198	C	29	2604	<a href="http://codeforces.com/problemset/problem/198/C/">198C</a>
+367	D	39	2604	<a href="http://codeforces.com/problemset/problem/367/D/">367D</a>
+494	C	29	2605	<a href="http://codeforces.com/problemset/problem/494/C/">494C</a>
+666	E	2	2606	<a href="http://codeforces.com/problemset/problem/666/E/">666E</a>
+571	D	4	2607	<a href="http://codeforces.com/problemset/problem/571/D/">571D</a>
+283	E	5	2607	<a href="http://codeforces.com/problemset/problem/283/E/">283E</a>
+372	D	22	2611	<a href="http://codeforces.com/problemset/problem/372/D/">372D</a>
+555	E	20	2617	<a href="http://codeforces.com/problemset/problem/555/E/">555E</a>
+198	D	4	2622	<a href="http://codeforces.com/problemset/problem/198/D/">198D</a>
+521	D	8	2623	<a href="http://codeforces.com/problemset/problem/521/D/">521D</a>
+187	E	1	2637	<a href="http://codeforces.com/problemset/problem/187/E/">187E</a>
+196	E	14	2639	<a href="http://codeforces.com/problemset/problem/196/E/">196E</a>
+288	E	5	2640	<a href="http://codeforces.com/problemset/problem/288/E/">288E</a>
+671	C	26	2642	<a href="http://codeforces.com/problemset/problem/671/C/">671C</a>
+582	E	9	2645	<a href="http://codeforces.com/problemset/problem/582/E/">582E</a>
+585	E	16	2647	<a href="http://codeforces.com/problemset/problem/585/E/">585E</a>
+338	E	14	2650	<a href="http://codeforces.com/problemset/problem/338/E/">338E</a>
+576	D	29	2651	<a href="http://codeforces.com/problemset/problem/576/D/">576D</a>
+559	D	25	2654	<a href="http://codeforces.com/problemset/problem/559/D/">559D</a>
+613	E	1	2656	<a href="http://codeforces.com/problemset/problem/613/E/">613E</a>
+685	C	17	2658	<a href="http://codeforces.com/problemset/problem/685/C/">685C</a>
+605	E	31	2661	<a href="http://codeforces.com/problemset/problem/605/E/">605E</a>
+698	E	13	2661	<a href="http://codeforces.com/problemset/problem/698/E/">698E</a>
+258	D	16	2670	<a href="http://codeforces.com/problemset/problem/258/D/">258D</a>
+512	E	18	2672	<a href="http://codeforces.com/problemset/problem/512/E/">512E</a>
+269	D	26	2673	<a href="http://codeforces.com/problemset/problem/269/D/">269D</a>
+343	E	6	2675	<a href="http://codeforces.com/problemset/problem/343/E/">343E</a>
+516	D	14	2676	<a href="http://codeforces.com/problemset/problem/516/D/">516D</a>
+372	E	2	2679	<a href="http://codeforces.com/problemset/problem/372/E/">372E</a>
+666	D	9	2683	<a href="http://codeforces.com/problemset/problem/666/D/">666D</a>
+497	D	8	2689	<a href="http://codeforces.com/problemset/problem/497/D/">497D</a>
+321	D	4	2694	<a href="http://codeforces.com/problemset/problem/321/D/">321D</a>
+497	E	8	2695	<a href="http://codeforces.com/problemset/problem/497/E/">497E</a>
+453	D	6	2699	<a href="http://codeforces.com/problemset/problem/453/D/">453D</a>
+587	E	14	2700	<a href="http://codeforces.com/problemset/problem/587/E/">587E</a>
+482	D	23	2701	<a href="http://codeforces.com/problemset/problem/482/D/">482D</a>
+603	E	3	2701	<a href="http://codeforces.com/problemset/problem/603/E/">603E</a>
+498	E	24	2703	<a href="http://codeforces.com/problemset/problem/498/E/">498E</a>
+464	D	21	2704	<a href="http://codeforces.com/problemset/problem/464/D/">464D</a>
+185	D	13	2707	<a href="http://codeforces.com/problemset/problem/185/D/">185D</a>
+213	E	5	2707	<a href="http://codeforces.com/problemset/problem/213/E/">213E</a>
+388	D	17	2709	<a href="http://codeforces.com/problemset/problem/388/D/">388D</a>
+685	E	21	2712	<a href="http://codeforces.com/problemset/problem/685/E/">685E</a>
+504	E	3	2714	<a href="http://codeforces.com/problemset/problem/504/E/">504E</a>
+453	E	1	2716	<a href="http://codeforces.com/problemset/problem/453/E/">453E</a>
+185	E	1	2717	<a href="http://codeforces.com/problemset/problem/185/E/">185E</a>
+442	D	20	2717	<a href="http://codeforces.com/problemset/problem/442/D/">442D</a>
+235	E	4	2719	<a href="http://codeforces.com/problemset/problem/235/E/">235E</a>
+613	D	22	2719	<a href="http://codeforces.com/problemset/problem/613/D/">613D</a>
+536	D	11	2720	<a href="http://codeforces.com/problemset/problem/536/D/">536D</a>
+356	D	8	2726	<a href="http://codeforces.com/problemset/problem/356/D/">356D</a>
+603	D	10	2730	<a href="http://codeforces.com/problemset/problem/603/D/">603D</a>
+671	D	14	2733	<a href="http://codeforces.com/problemset/problem/671/D/">671D</a>
+687	E	22	2736	<a href="http://codeforces.com/problemset/problem/687/E/">687E</a>
+696	E	11	2740	<a href="http://codeforces.com/problemset/problem/696/E/">696E</a>
+319	D	7	2743	<a href="http://codeforces.com/problemset/problem/319/D/">319D</a>
+461	E	6	2756	<a href="http://codeforces.com/problemset/problem/461/E/">461E</a>
+193	E	3	2758	<a href="http://codeforces.com/problemset/problem/193/E/">193E</a>
+480	E	4	2765	<a href="http://codeforces.com/problemset/problem/480/E/">480E</a>
+367	E	14	2774	<a href="http://codeforces.com/problemset/problem/367/E/">367E</a>
+338	D	4	2774	<a href="http://codeforces.com/problemset/problem/338/D/">338D</a>
+487	E	1	2782	<a href="http://codeforces.com/problemset/problem/487/E/">487E</a>
+455	E	7	2783	<a href="http://codeforces.com/problemset/problem/455/E/">455E</a>
+468	D	1	2786	<a href="http://codeforces.com/problemset/problem/468/D/">468D</a>
+559	E	8	2787	<a href="http://codeforces.com/problemset/problem/559/E/">559E</a>
+679	D	15	2788	<a href="http://codeforces.com/problemset/problem/679/D/">679D</a>
+573	D	9	2788	<a href="http://codeforces.com/problemset/problem/573/D/">573D</a>
+167	E	6	2794	<a href="http://codeforces.com/problemset/problem/167/E/">167E</a>
+601	E	13	2802	<a href="http://codeforces.com/problemset/problem/601/E/">601E</a>
+380	E	12	2807	<a href="http://codeforces.com/problemset/problem/380/E/">380E</a>
+700	D	5	2825	<a href="http://codeforces.com/problemset/problem/700/D/">700D</a>
+512	D	15	2829	<a href="http://codeforces.com/problemset/problem/512/D/">512D</a>
+256	D	4	2835	<a href="http://codeforces.com/problemset/problem/256/D/">256D</a>
+590	E	1	2837	<a href="http://codeforces.com/problemset/problem/590/E/">590E</a>
+576	E	1	2850	<a href="http://codeforces.com/problemset/problem/576/E/">576E</a>
+297	E	3	2853	<a href="http://codeforces.com/problemset/problem/297/E/">297E</a>
+434	D	1	2853	<a href="http://codeforces.com/problemset/problem/434/D/">434D</a>
+251	D	6	2859	<a href="http://codeforces.com/problemset/problem/251/D/">251D</a>
+238	E	3	2865	<a href="http://codeforces.com/problemset/problem/238/E/">238E</a>
+196	D	4	2872	<a href="http://codeforces.com/problemset/problem/196/D/">196D</a>
+698	F	9	2876	<a href="http://codeforces.com/problemset/problem/698/F/">698F</a>
+217	D	4	2886	<a href="http://codeforces.com/problemset/problem/217/D/">217D</a>
+167	D	2	2890	<a href="http://codeforces.com/problemset/problem/167/D/">167D</a>
+348	E	3	2891	<a href="http://codeforces.com/problemset/problem/348/E/">348E</a>
+587	D	1	2894	<a href="http://codeforces.com/problemset/problem/587/D/">587D</a>
+650	E	8	2895	<a href="http://codeforces.com/problemset/problem/650/E/">650E</a>
+679	E	3	2902	<a href="http://codeforces.com/problemset/problem/679/E/">679E</a>
+536	E	4	2918	<a href="http://codeforces.com/problemset/problem/536/E/">536E</a>
+377	E	4	2923	<a href="http://codeforces.com/problemset/problem/377/E/">377E</a>
+238	D	1	2930	<a href="http://codeforces.com/problemset/problem/238/D/">238D</a>
+414	E	1	2962	<a href="http://codeforces.com/problemset/problem/414/E/">414E</a>
+204	E	3	2967	<a href="http://codeforces.com/problemset/problem/204/E/">204E</a>
+277	D	4	3003	<a href="http://codeforces.com/problemset/problem/277/D/">277D</a>
+243	D	3	3015	<a href="http://codeforces.com/problemset/problem/243/D/">243D</a>
+193	D	2	3099	<a href="http://codeforces.com/problemset/problem/193/D/">193D</a>
+354	D	1	3102	<a href="http://codeforces.com/problemset/problem/354/D/">354D</a>
+516	E	1	3102	<a href="http://codeforces.com/problemset/problem/516/E/">516E</a>
+156	E	2	3148	<a href="http://codeforces.com/problemset/problem/156/E/">156E</a>
+663	D	2	3205	<a href="http://codeforces.com/problemset/problem/663/D/">663D</a>
+494	E	2	3255	<a href="http://codeforces.com/problemset/problem/494/E/">494E</a>
+521	E	2	3291	<a href="http://codeforces.com/problemset/problem/521/E/">521E</a>
+568	E	1	3481	<a href="http://codeforces.com/problemset/problem/568/E/">568E</a>
+235	D	1	3481	<a href="http://codeforces.com/problemset/problem/235/D/">235D</a>
+506	E	1	3481	<a href="http://codeforces.com/problemset/problem/506/E/">506E</a>
+232	D	1	3580	<a href="http://codeforces.com/problemset/problem/232/D/">232D</a>
+442	E	1	3580	<a href="http://codeforces.com/problemset/problem/442/E/">442E</a>
+145	D	1	3580	<a href="http://codeforces.com/problemset/problem/145/D/">145D</a>
